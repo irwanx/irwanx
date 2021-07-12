@@ -6,10 +6,6 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
 [![Instagram Badge](https://img.shields.io/badge/-@irwan_x_yans-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/irwan_x_yans/)](https://instagram.com/irwan_x_yans)
 [![Gmail Badge](https://img.shields.io/badge/-irwan080304-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:irwan080304@gmail.com)](mailto:irwan080304@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-0888--2611--841-green?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/628882611841/)](https://wa.me/628882611841)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=webprogrammingirfan&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=webprogrammingirfan&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=webprogrammingirfan&repo=I-Love-You&theme=dark)
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -23,4 +19,11 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+</p>
+<p align="center">
+  <a href="https://github.com/Ramlan404"><img src="https://github-readme-stats.vercel.app/api?username=Ramlan404&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/webprogrammingirfan"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=webprogrammingirfan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
