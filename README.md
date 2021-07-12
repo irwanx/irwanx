@@ -9,4 +9,4 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=webprogrammingirfan&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=webprogrammingirfan&layout=compact&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=webprogrammingirfan&repo=dnsbot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=webprogrammingirfan&repo=I-Love-You&theme=dark)
