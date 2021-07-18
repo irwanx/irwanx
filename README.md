@@ -27,3 +27,6 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
 <p align="left">
   <a href="https://github.com/irwanx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irwanx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
+<p align="left">
+  <a href="https://guthub.com/irwanx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwanx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
