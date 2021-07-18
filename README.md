@@ -1,5 +1,5 @@
 # Hi I'm Irwan 👋
-Welcome to my profile! I am a high school student, an aspiring [writer](https://instagram.com/irwan_x_yans), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/irwan-xyans/)!
+Welcome to my profile! I am a high school student, an aspiring [writer](https://instagram.com/irwan_x_yans), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](instagram.com/irwan_x_yans)!
 ### 📫 Follow Me On
 [![Linkedin Badge](https://img.shields.io/badge/-irwan--xyans-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwan-xyans/)](https://www.linkedin.com/in/irwan-xyans/)
 [![Twitter Badge](https://img.shields.io/badge/-@irwanx_taa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/irwanx_taa)](https://twitter.com/irwanx_taa)
@@ -27,4 +27,3 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
 <p align="left">
   <a href="https://github.com/irwanx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irwanx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irwanx&hide=css,html&theme=tokyonight)
