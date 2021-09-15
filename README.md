@@ -30,12 +30,14 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
 <p align="left">
   <a href="https://github.com/irwanx"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irwanx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
-## 📊 My weekly activity
+
+### 📊 My Weekly Activity
+
 <!--START_SECTION:waka-->
 ```text
-JavaScript   23 hrs 48 mins  ████████████████████████░   95.51 % <p>
-Pawn         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %  <p>
-JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %  <p>
-POVRay       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %  <p>
+JavaScript   23 hrs 48 mins  ████████████████████████░   95.51 %
+Pawn         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+POVRay       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 <!--END_SECTION:waka-->
