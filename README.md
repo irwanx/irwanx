@@ -1,5 +1,5 @@
 # Hi I'm Irwan 👋
-![](https://visitor-badge.glitch.me/badge?page_id=irwanx)
+![](https://visitor-badge.glitch.me/badge?page_id=irwanx)<p>
 Welcome to my profile! I am a high school student, an aspiring [writer](https://instagram.com/irwan_x_yans), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](instagram.com/irwan_x_yans)!
 - 🔭 I’m currently studying on Senior High School on Magelang, Jawa Tengah, Indonesia.
 - ⚡fun fact: Nothing Fun :(
@@ -33,9 +33,9 @@ Welcome to my profile! I am a high school student, an aspiring [writer](https://
 ## 📊 My weekly activity
 <!--START_SECTION:waka-->
 ```text
-JavaScript   23 hrs 48 mins  ████████████████████████░   95.51 % 
-Pawn         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-POVRay       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JavaScript   23 hrs 48 mins  ████████████████████████░   95.51 % <p>
+Pawn         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %  <p>
+JSON         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %  <p>
+POVRay       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %  <p>
 ```
 <!--END_SECTION:waka-->
