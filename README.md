@@ -30,6 +30,19 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
 <details>
+ <summary><b>🐱 My GitHub Data</b></summary>
+
+> 📦 3.8 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+ </details>
+ 
+<details>
   <summary><b>My Github Stats</b></summary>
   <img alt="Irwan's github stats" src="https://github-readme-stats.vercel.app/api?username=irwanx&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" />
@@ -44,6 +57,24 @@
     <a href="https://instagram.com/irwan_x_yans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
     <a href="https://wa.me/628882611841" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
+</details>
+
+<details>
+ <summary><b>📊 This Week I Spent My Time On</b></summary>
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 </details>
 
 <details>
