@@ -105,6 +105,16 @@ POVRay       4 mins          ░░░░░░░░░░░░░░░░░
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 <details>
+ <summary>Streak stats</summary>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=irwanx&theme=radical)](https://github.com/irwanx)
+ </details>
+<details> 
+ <summary>Contribution Graph</summary>
+ 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=irwanx&theme=react-dark)](https://github.com/irwanx)
+</details>
+<details>
 <summary>Achievements</summary>
 <a href="https://github.com/irwanx">
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=irwanx&theme=white&no-frame=true&column=7">
