@@ -1,3 +1,7 @@
+<p align="center">
+ <img src="https://avatars.githubusercontent.com/irwanx" width="200" height="200"/></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=B8F7D7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
+</p>
 
 ## Hi there, my name is Irwan X Yans<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
