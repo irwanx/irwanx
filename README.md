@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤷‍♂️ 18 y.o<br>🏠 Live at Magelang, Jawa Tengah
+🤷‍♂️ 19 Y.O<br>🏠 Live at Magelang, Central Java, Indonesia
 
 
 ## 🌐 Socials:
