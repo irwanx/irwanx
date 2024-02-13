@@ -58,7 +58,7 @@
   </details>
   
   <details>
-    <summary><h2>📊 Wakatime Breakdown:</h2></summary>
+    <summary><h2><img src="https://wakatime.com/static/img/wakatime-light.svg" width="25" height="25"> Wakatime Breakdown:</h2></summary>
   <img
   src="https://github.com/irwanx/irwanx/blob/master/images/stat.svg"
   alt="Irwanx WakaTime Activity"
