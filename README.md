@@ -49,14 +49,21 @@
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1uqkzleqefqbfe9570f8ig0bb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Playing">
   </a>
 
-  <h2>📊 All Stats:</h2>
-  <img src="https://github-readme-stats-carol42.vercel.app/api?username=irwanx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwanx&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwanx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Used"/>
-
-  <a href="https://github.com/irwanx">
-    <img src="https://github-contributor-stats.vercel.app/api?username=irwanx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-  </a>
+  <details>
+    <summary><h2>📊 Github Stats:</h2></summary>
+    <img src="https://github-readme-stats-carol42.vercel.app/api?username=irwanx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwanx&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=irwanx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwanx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Used"/>
+  </details>
+  
+  <details>
+    <summary><h2>📊 Wakatime Breakdown:</h2></summary>
+  <img
+  src="https://github.com/irwanx/irwanx/blob/master/images/stat.svg"
+  alt="Irwanx WakaTime Activity"
+/>
+  </details>
 
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
