@@ -8,31 +8,31 @@
     <li>🤔 I still need a lot of experience</li>
   </ul>
 
-  <h2>🌐 Socials:</h2>
+  <h2>🌐 How to reach me:</h2>
   <a href="https://instagram.com/abcdefuceek">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/irwan-xyans/">
-    <img src="https://img.shields.io/badge/-LikedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwan-xyans/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LikedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irwan-xyans/" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/irwanx_taa">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/irwanx_taa" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/irwanx_taa" alt="Twitter">
   </a>
   <a href="mailto:irwan080304@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:irwan080304@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:irwan080304@gmail.com" alt="Gmail">
   </a>
   <a href="https://wa.me/628882611841/">
-    <img src="https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/628882611841/" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/628882611841/" alt="WhatsApp">
   </a>
 
   <h2>:bulb: Languages & Frameworks</h2>
   <div align="left">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/pascal-%2314354C.svg?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal"/>
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
     <br>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   </div>
-  <br><br>
+
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   
   <h3>Spotify Playing 🎧</h3>
