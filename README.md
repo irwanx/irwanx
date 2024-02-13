@@ -45,8 +45,8 @@
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   
   <h3>Spotify Playing 🎧</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem" alt="Spotify Playing">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=1uqkzleqefqbfe9570f8ig0bb&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1uqkzleqefqbfe9570f8ig0bb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Playing">
   </a>
 
   <h2>📊 All Stats:</h2>
