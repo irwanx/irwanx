@@ -4,8 +4,9 @@ on:
   push:
     branches: [master]
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
+    # Runs at 12 am  '1 0 * * *'  UTC
     - cron: "1 0 * * *"
+    - cron: "1 12 * * *"
 
 jobs:
   update-readme:
@@ -24,6 +25,6 @@ jobs:
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "master"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: "Automated Coding Activity Update :bulb:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
-          STATS_RANGE: "last_7_days"
+          STATS_RANGE: "last_30_days"
