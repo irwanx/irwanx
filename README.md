@@ -1,43 +1,82 @@
-# 💫 About Me:
-🤷‍♂️ 20 Y.O  
-🏠 Live at Magelang, Central Java, Indonesia
+<h1 align="center">👋 Hello! I'm Irwan</h1>
 
-### Personal Stuffs:
-- 🌱 Always striving to improve and try new things
-- ✨ Passionate about API development and seeking new challenges
-- 🤔 Eager to gain more experience and continuously learn and grow
+<p align="center">
+  <a href="https://www.irwanx.my.id">🌐 Portfolio</a> •
+  <a href="https://instagram.com/irwan_x_yans/">📸 Instagram</a>
+</p>
 
-## 🌐 How to reach me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abcdefuceek)
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:irwan080304@gmail.com)](mailto:irwan080304@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/628882611841/)](https://wa.me/628882611841/)
+---
 
-## :bulb: Languages & Frameworks
+# 💫 About Me
+
+Hi, I'm **Irwanx** — a passionate software developer from **Magelang, Central Java, Indonesia** 🇮🇩  
+Currently 21 years old and pursuing a degree in **Information Systems** at [STMIK Bina Patria](https://stmikbinapatria.ac.id/).
+
+---
+
+## 👨‍💻 What I Do
+
+- 🌱 Continuously learning and exploring new technologies  
+- 🔧 Passionate about **API development**, backend engineering, and web frameworks  
+- 💬 Ask me about **JavaScript, TypeScript, PHP, and Python**  
+- 🚀 Exploring DevOps tools, cloud platforms, and system architecture  
+- 💡 Enjoy building things that solve real-world problems  
+
+---
+
+## 📫 Get in Touch
+
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:irwan080304@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irwan-xyans/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/irwan_x_yans/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628882611841)
+
+---
+
+## 🛠️ Languages & Frameworks
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![EJS](https://img.shields.io/badge/ejs-%237D7D7D.svg?style=for-the-badge&logo=ejs&logoColor=white)
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<details>
-  <summary><h2>📊 Github Stats:</h2></summary>
-  <img src="https://github-readme-stats-carol42.vercel.app/api?username=irwanx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwanx&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=irwanx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwanx&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Used"/>
-</details>
+---
 
-<details>
-  <summary><h2>📈 Wakatime Breakdown:</h2></summary>
-  <img src="images/stat.svg" alt="Irwanx WakaTime Activity"/>
-</details>
+## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=irwanx&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irwanx&theme=nightowl&hide_border=false&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irwanx&theme=nightowl&hide_border=false&layout=compact&langs_count=5&hide=css)
+
+---
+
+## 🕒 Coding Activity (via WakaTime)
+
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+```txt
+No activity tracked
+```
+<!--END_SECTION:waka-->
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/irwanx/count.svg)
+
+---
+
+## ⚡ Fun Fact
+
+I'm always experimenting — whether it's with code, command-line tools, or even coffee brewing ☕.
