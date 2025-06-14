@@ -68,7 +68,7 @@ Currently 21 years old and pursuing a degree in **Information Systems** at [STMI
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 January 2024 - To: 12 June 2025
+From: 30 January 2024 - To: 13 June 2025
 
 Total Time: 963 hrs 53 mins
 
