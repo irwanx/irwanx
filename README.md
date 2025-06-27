@@ -1,26 +1,65 @@
-<h1 align="center">👋 Hello! I'm Irwan</h1>
-
-<p align="center">
-  <a href="https://www.irwanx.my.id">🌐 Portfolio</a> •
-  <a href="https://instagram.com/irwan_x_yans/">📸 Instagram</a>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">
+    👋 Hello, I'm Irwan!
+    <br/>
+    <a href="https://www.irwanx.my.id">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/irwan-xyans/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </h1>
+</div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-Hi, I'm **Irwanx** — a passionate software developer from **Magelang, Central Java, Indonesia** 🇮🇩  
-Currently 21 years old and pursuing a degree in **Information Systems** at [STMIK Bina Patria](https://stmikbinapatria.ac.id/).
 
----
+```javascript
+class Irwanx {
+  constructor() {
+    this.name = "Irwan";
+    this.username = "irwanx";
+    this.location = "Magelang, Central Java, Indonesia 🇮🇩";
+    this.education = "Information Systems @ STMIK Bina Patria";
+    this.portfolio = "[https://www.irwanx.my.id](https://www.irwanx.my.id)";
+    this.interests = [
+      "API Development",
+      "Backend Engineering",
+      "System Architecture",
+      "DevOps",
+      "Open Source"
+    ];
+    this.currentFocus = [
+      "Next.js",
+      "TypeScript",
+      "System Design",
+      "Cloud & CI/CD"
+    ];
+  }
 
-## 👨‍💻 What I Do
+  getExpertise() {
+    return {
+      languages: ["JavaScript", "TypeScript", "PHP", "Python"],
+      frontend: ["HTML", "CSS", "TailwindCSS", "React.js", "Next.js"],
+      backend: ["Express.js", "Flask", "PHP"],
+      devTools: ["Git", "Docker", "VS Code", "Postman"],
+      specialties: [
+        "Full Stack Development",
+        "REST API Design",
+        "Web Automation",
+        "Clean Code"
+      ]
+    };
+  }
 
-- 🌱 Continuously learning and exploring new technologies  
-- 🔧 Passionate about **API development**, backend engineering, and web frameworks  
-- 💬 Ask me about **JavaScript, TypeScript, PHP, and Python**  
-- 🚀 Exploring DevOps tools, cloud platforms, and system architecture  
-- 💡 Enjoy building things that solve real-world problems  
+  currentStatus() {
+    return "🚀 Building real-world projects, learning DevOps, and crafting better APIs 🔥";
+  }
+}
+```
 
 ---
 
@@ -55,7 +94,7 @@ Currently 21 years old and pursuing a degree in **Information Systems** at [STMI
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irwanx&theme=nightowl&hide_border=false&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irwanx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irwanx&theme=nightowl&hide_border=false&layout=compact&langs_count=5&hide=css)
 
