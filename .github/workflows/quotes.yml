@@ -5,8 +5,8 @@ on:
     branches: [master]
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'   # Setiap hari jam 01:00 UTC
-    - cron: '0 9 * * *'   # Setiap hari jam 09:00 UTC
+    - cron: '0 1 * * *'
+    - cron: '0 9 * * *'
 
 jobs:
   update-readme:
@@ -20,24 +20,22 @@ jobs:
       - name: Install jq
         run: sudo apt-get install jq
 
-      - name: Update README with new quote
+      - name: Fetch and inject quote
         run: |
           QUOTE_DATA=$(curl -s "https://api.irwanx.my.id/api/quotes/random")
           QUOTE_TEXT=$(echo "$QUOTE_DATA" | jq -r '.data.quotes')
           QUOTE_AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.data.author')
 
-          START_COMMENT="<!-- START_QUOTE -->"
-          END_COMMENT="<!-- END_QUOTE -->"
+          QUOTE="> \"${QUOTE_TEXT}\" - *${QUOTE_AUTHOR}*"
 
-          QUOTE_CONTENT="> \"${QUOTE_TEXT}\" - *${QUOTE_AUTHOR}*"
+          START="<!-- START_QUOTE -->"
+          END="<!-- END_QUOTE -->"
 
-          # Escape slashes for sed
-          ESCAPED_QUOTE=$(echo "$QUOTE_CONTENT" | sed 's/\//\\\//g')
-
-          # Update the README.md
-          sed -i "/${START_COMMENT}/,/${END_COMMENT}/{//!d;/${START_COMMENT}/a \\ 
-          ${ESCAPED_QUOTE}
-          }" README.md
+          awk -v start="$START" -v end="$END" -v quote="$QUOTE" '
+            $0 ~ start { print; print quote; skip=1; next }
+            $0 ~ end { skip=0 }
+            !skip
+          ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
