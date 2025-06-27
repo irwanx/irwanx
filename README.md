@@ -63,7 +63,7 @@ Currently 21 years old and pursuing a degree in **Information Systems** at [STMI
 
 ## 🕒 Coding Activity (via WakaTime)
 
-📊 **Weekly development breakdown**
+📊 **Yearly Development Breakdown**
 
 <!--START_SECTION:waka-->
 
@@ -84,6 +84,12 @@ Other             8 hrs 20 mins   -------------------------   00.84 %
 ```
 
 <!--END_SECTION:waka-->
+
+---
+
+📊 **Weekly Development Breakdown**
+
+<img src="images/stat.svg" alt="Irwanx WakaTime Activity"/>
 
 ---
 
