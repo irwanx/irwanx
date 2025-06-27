@@ -1,0 +1,37 @@
+name: Update Quote
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+    - cron: '0 9 * * *'
+
+jobs:
+  update-readme:
+    name: Update Quote in README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update README with new quote
+        run: |
+          QUOTE_DATA=$(curl -s "https://api.irwanx.my.id/api/quotes/random")
+          QUOTE_TEXT=$(echo "$QUOTE_DATA" | jq -r '.data.quotes')
+          QUOTE_AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.data.author')
+          
+          START_COMMENT=""
+          END_COMMENT=""
+          
+          QUOTE_CONTENT="> \"${QUOTE_TEXT}\" - *${QUOTE_AUTHOR}*"
+          
+          sed -i "/${START_COMMENT}/,/${END_COMMENT}/{//!d;/${START_COMMENT}/a \\
+          ${QUOTE_CONTENT}
+          }" README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: Update daily quote"
+          commit_user_name: "irwanx"
+          commit_user_email: "irwan080304@gmail.com"
+          commit_author: "irwanx <irwan080304@gmail.com>"

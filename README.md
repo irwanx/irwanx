@@ -93,6 +93,4 @@ Other             8 hrs 20 mins   -------------------------   00.84 %
 
 ---
 
-## ⚡ Fun Fact
-
-I'm always experimenting — whether it's with code, command-line tools, or even coffee brewing ☕.
+## 📜 Quote of the Day
