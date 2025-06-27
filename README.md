@@ -101,4 +101,5 @@ Other             8 hrs 20 mins   -------------------------   00.84 %
 
 ## 📜 Quote of the Day
 
-> 
+<!-- START_QUOTE -->
+<!-- END_QUOTE -->

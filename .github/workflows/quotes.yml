@@ -5,32 +5,41 @@ on:
     branches: [master]
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
-    - cron: '0 9 * * *'
+    - cron: '0 1 * * *'   # Setiap hari jam 01:00 UTC
+    - cron: '0 9 * * *'   # Setiap hari jam 09:00 UTC
 
 jobs:
   update-readme:
     name: Update Quote in README
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install jq
 
       - name: Update README with new quote
         run: |
           QUOTE_DATA=$(curl -s "https://api.irwanx.my.id/api/quotes/random")
           QUOTE_TEXT=$(echo "$QUOTE_DATA" | jq -r '.data.quotes')
           QUOTE_AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.data.author')
-          
-          START_COMMENT=""
-          END_COMMENT=""
-          
+
+          START_COMMENT="<!-- START_QUOTE -->"
+          END_COMMENT="<!-- END_QUOTE -->"
+
           QUOTE_CONTENT="> \"${QUOTE_TEXT}\" - *${QUOTE_AUTHOR}*"
-          
-          sed -i "/${START_COMMENT}/,/${END_COMMENT}/{//!d;/${START_COMMENT}/a \\
-          ${QUOTE_CONTENT}
+
+          # Escape slashes for sed
+          ESCAPED_QUOTE=$(echo "$QUOTE_CONTENT" | sed 's/\//\\\//g')
+
+          # Update the README.md
+          sed -i "/${START_COMMENT}/,/${END_COMMENT}/{//!d;/${START_COMMENT}/a \\ 
+          ${ESCAPED_QUOTE}
           }" README.md
 
-      - name: Commit changes
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "docs: Update daily quote"
