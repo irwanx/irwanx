@@ -102,4 +102,5 @@ Other             8 hrs 20 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
+> "Dia hanya menghargaimu, bukan mencintaimu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
