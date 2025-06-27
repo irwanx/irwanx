@@ -68,13 +68,13 @@ Currently 21 years old and pursuing a degree in **Information Systems** at [STMI
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 January 2024 - To: 25 June 2025
+From: 30 January 2024 - To: 26 June 2025
 
-Total Time: 987 hrs 47 mins
+Total Time: 988 hrs
 
-JavaScript        312 hrs 28 mins >>>>>>>>-----------------   31.37 %
+JavaScript        312 hrs 28 mins >>>>>>>>-----------------   31.36 %
 PHP               255 hrs 26 mins >>>>>>-------------------   25.64 %
-TypeScript        248 hrs 11 mins >>>>>>-------------------   24.92 %
+TypeScript        248 hrs 11 mins >>>>>>-------------------   24.91 %
 Python            41 hrs 26 mins  >------------------------   04.16 %
 HTML              31 hrs 59 mins  >------------------------   03.21 %
 EJS               24 hrs 23 mins  >------------------------   02.45 %
