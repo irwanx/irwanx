@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika tidak bisa mewarnai hidup seseorang, maka jangan pudarkan warna aslinya." - *@irwan_x_yans*
+> "Waktu lebih berharga daripada uang. Kamu bisa mendapatkan lebih banyak uang, tetapi kamu tidak bisa mendapatkan lebih banyak waktu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
