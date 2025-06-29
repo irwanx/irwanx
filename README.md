@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nk mung mbaleni mulai dari 0 ae kang pom bengsin yo iso kok~" - *@irwan_x_yans*
+> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
 <!-- END_QUOTE -->
