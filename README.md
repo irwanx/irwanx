@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan bicara, bertindak saja. Jangan katakan, tunjukkan saja. Jangan janji, buktikan saja." - *@irwan_x_yans*
+> "Nk mung mbaleni mulai dari 0 ae kang pom bengsin yo iso kok~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
