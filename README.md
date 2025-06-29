@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
+> "Senja memang indah, namun ketika pergi ia akan benar-benar hilang. Tak seperti matahari, meski ia pergi, ia tetap ada, yakni menerangi bagian lain." - *@irwan_x_yans*
 <!-- END_QUOTE -->
