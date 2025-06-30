@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Masa sih ninggalin kamu, susah tau cari orang yang kaya kamu, yang sampe bikin aku sayang banget kaya gini." - *@irwan_x_yans*
+> "Deklarasi Kemerdekaan Amerika ditulis diatas kertas marijuana" - *@irwan_x_yans*
 <!-- END_QUOTE -->
