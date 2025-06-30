@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja memang indah, namun ketika pergi ia akan benar-benar hilang. Tak seperti matahari, meski ia pergi, ia tetap ada, yakni menerangi bagian lain." - *@irwan_x_yans*
+> "Tak semudah itu melupakanmu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
