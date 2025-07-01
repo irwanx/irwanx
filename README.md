@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Diriku dan Dirimu itu ibarat PHP dan MySQL yang belum terkoneksi." - *@irwan_x_yans*
+> "Sok sok an pamer poto nikah muda, padahal asline meteng ndisek~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
