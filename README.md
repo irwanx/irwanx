@@ -141,5 +141,5 @@ Other             8 hrs 25 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Opo aku kudu dadi dora, ben koe iso tak bengoki 'katakan peka, katakan peka'.~" - *@irwan_x_yans*
+> "Cinta bukan melepas tapi merelakan. Bukan memaksa tapi memperjuangkan. Bukan menyerah tapi mengikhlaskan. Bukan merantai tapi memberi sayap." - *Fiersa Besari*
 <!-- END_QUOTE -->
