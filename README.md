@@ -94,7 +94,7 @@ class Irwanx {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irwanx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-iota-inky-90.vercel.app/api?username=irwanx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=irwanx&theme=nightowl&hide_border=false&layout=compact&langs_count=5&hide=css)
 
