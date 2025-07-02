@@ -24,7 +24,7 @@ class Irwanx {
     this.username = "irwanx";
     this.location = "Magelang, Central Java, Indonesia 🇮🇩";
     this.education = "Information Systems @ STMIK Bina Patria";
-    this.portfolio = "[https://www.irwanx.my.id](https://www.irwanx.my.id)";
+    this.portfolio = "https://www.irwanx.my.id";
     this.interests = [
       "API Development",
       "Backend Engineering",
