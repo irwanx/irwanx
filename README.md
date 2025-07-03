@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja tak pernah salah. Hanya kenanganlah yang kadang membuatnya basah. Dan pada senja, akhirnya kita mengaku kalah." - *@irwan_x_yans*
+> "Aku pengangguran ae sibuk dek, oponeh kerjo.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
