@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku pengangguran ae sibuk dek, oponeh kerjo.~" - *@irwan_x_yans*
+> "Beberapa penyair sibuk bersembunyi di balik senja, hujan, gemintang, ufuk, gunung, pantai, jingga, lembayung, kopi, renjana, juga berbagai kata romantis lainnya, untuk kemudian lupa pada fakta bahwa dunia sedang tidak baik-baik saja. Hingga akhirnya kata-kata hanyalah hiasan semata." - *Fiersa Besari*
 <!-- END_QUOTE -->
