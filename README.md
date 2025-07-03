@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Antioksidans pada apel lebih besar 5x dari pisang" - *@irwan_x_yans*
+> "Senja tak pernah salah. Hanya kenanganlah yang kadang membuatnya basah. Dan pada senja, akhirnya kita mengaku kalah." - *@irwan_x_yans*
 <!-- END_QUOTE -->
