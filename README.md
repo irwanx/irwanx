@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tau teman wanitamu bukan hanya satu, dan menyukaimu pun bukan hanya aku." - *@irwan_x_yans*
+> "Cidro to, salahe ora ro aku.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
