@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Beli jamu dari orang kendari, melihatmu seperti bidadari" - *@irwan_x_yans*
+> "berharap setelah aku berhasil login di hati kamu ga akan ada tombol logout, dan sessionku ga bakal pernah expired." - *@irwan_x_yans*
 <!-- END_QUOTE -->
