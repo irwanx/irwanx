@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan terlalu berharap! nanti jatuhnya sakit!" - *@irwan_x_yans*
+> "Senja mengajarkan kita bahwa sesuatu yang terlihat indah sebagian besar hanya bersifat sementara." - *@irwan_x_yans*
 <!-- END_QUOTE -->
