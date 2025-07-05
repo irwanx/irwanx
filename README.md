@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja mengajarkan kita bahwa sesuatu yang terlihat indah sebagian besar hanya bersifat sementara." - *@irwan_x_yans*
+> "Beli jamu dari orang kendari, melihatmu seperti bidadari" - *@irwan_x_yans*
 <!-- END_QUOTE -->
