@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "berharap setelah aku berhasil login di hati kamu ga akan ada tombol logout, dan sessionku ga bakal pernah expired." - *@irwan_x_yans*
+> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
 <!-- END_QUOTE -->
