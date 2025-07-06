@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
+> "Kacang adalah salah satu bahan untuk membuat dinamit" - *@irwan_x_yans*
 <!-- END_QUOTE -->
