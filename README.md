@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kacang adalah salah satu bahan untuk membuat dinamit" - *@irwan_x_yans*
+> "Kamu adalah patah hati terbaik yang gak pernah aku sesali." - *@irwan_x_yans*
 <!-- END_QUOTE -->
