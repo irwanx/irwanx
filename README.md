@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tanpamu aku serupa daun kering yang dilepaskan ranting, terbawa angin tanpa arah dan tanpa ingin." - *@irwan_x_yans*
+> "Kecoa kentut setiap 15 menit dan terus mengeluarkan gas metana (kentut) selama 18 jam setelah kematian" - *@irwan_x_yans*
 <!-- END_QUOTE -->
