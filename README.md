@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu adalah patah hati terbaik yang gak pernah aku sesali." - *@irwan_x_yans*
+> "aku ingin kamu rm -rf kan semua mantan di otak mu,akulah root hati kamu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
