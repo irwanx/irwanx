@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sadarlah bahwa Tuhan mengujimu karena Dia percaya dirimu lebih kuat dari yang kau duga. Bangkit. Hidup takan menunggu." - *Fiersa Besari*
+> "Melalui rasa rindu yang bergejolak dalam hati, di situ terkadang aku sangat membutuhkan dekap peluk kasih sayangmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
