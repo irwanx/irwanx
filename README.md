@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kecoa kentut setiap 15 menit dan terus mengeluarkan gas metana (kentut) selama 18 jam setelah kematian" - *@irwan_x_yans*
+> "Sadarlah bahwa Tuhan mengujimu karena Dia percaya dirimu lebih kuat dari yang kau duga. Bangkit. Hidup takan menunggu." - *Fiersa Besari*
 <!-- END_QUOTE -->
