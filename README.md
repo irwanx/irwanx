@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku rela dipenjara seumur hidup asalkan pelanggarannya karena mencintaimu." - *@irwan_x_yans*
+> "Manusia boleh berencana, tapi akhirnya saldo juga yang menentukan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
