@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sayang, jangan lupa minum air putih yang banyak ya biar ginjal kamu tetap sehat bulan depan kan mau dijual." - *@irwan_x_yans*
+> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
