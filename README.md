@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
+> "Meh Poso, sepurane yo ndes nek aku nduwe salah, tapi nek raimu panggah gateli ayo gelud ae, gae penutupan los.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
