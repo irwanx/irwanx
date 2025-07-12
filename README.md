@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Meh Poso, sepurane yo ndes nek aku nduwe salah, tapi nek raimu panggah gateli ayo gelud ae, gae penutupan los.~" - *@irwan_x_yans*
+> "Hal yang paling menyebalkan dari petualangan adalah: sekali kau terkena racunnya, kau akan kecanduan. Kau akan mencari cara untuk kembali berkelana, meski harus menumpang mobil, tidur mengemper. Dan ketika kau tiba di destinasi impianmu, kau tahu semua pengorbanan itu sepadan." - *Fiersa Besari*
 <!-- END_QUOTE -->
