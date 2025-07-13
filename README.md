@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "cinta kita tak akan bisa dipisahkan walau setebal apapun itu firewall...!!" - *@irwan_x_yans*
+> "Pamer tok ra dikentu, yo rugi ndes !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
