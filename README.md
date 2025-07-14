@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
+> "Penampilan oke, gaya josss. Rokok njaluk~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
