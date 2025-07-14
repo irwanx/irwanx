@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Penampilan oke, gaya josss. Rokok njaluk~" - *@irwan_x_yans*
+> "Kalo aku chat kamu ada yang marah gak?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
