@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Alasan nomor satu orang gagal dalam hidup adalah karena mereka mendengarkan teman, keluarga, dan tetangga mereka." - *@irwan_x_yans*
+> "IBM mengatakan bahwa dalam kurun waktu 5 tahun ke depan, komputer bakal mirip manusia yang bisa melihat, mendengar, mencium dan merasakan" - *@irwan_x_yans*
 <!-- END_QUOTE -->
