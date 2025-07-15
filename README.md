@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "IBM mengatakan bahwa dalam kurun waktu 5 tahun ke depan, komputer bakal mirip manusia yang bisa melihat, mendengar, mencium dan merasakan" - *@irwan_x_yans*
+> "Pada waktunya, dunia hanya perlu tahu kalau kita hebat. Kebahagiaan tidak membutuhkan penilaian orang lain." - *Fiersa Besari*
 <!-- END_QUOTE -->
