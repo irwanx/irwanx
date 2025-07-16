@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hal yang paling menyebalkan dari petualangan adalah: sekali kau terkena racunnya, kau akan kecanduan. Kau akan mencari cara untuk kembali berkelana, meski harus menumpang mobil, tidur mengemper. Dan ketika kau tiba di destinasi impianmu, kau tahu semua pengorbanan itu sepadan." - *Fiersa Besari*
+> "Cintamu bagaikan TeamViewer yang selalu mengendalikan hatiku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
