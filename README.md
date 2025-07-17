@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.81 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
+> "Bersikap keras kepala tentang tujuan Anda dan fleksibel tentang metode Anda." - *@irwan_x_yans*
 <!-- END_QUOTE -->
