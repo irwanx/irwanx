@@ -141,5 +141,5 @@ Other             8 hrs 27 mins   -------------------------   00.81 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Untung kangen koe ki gratis, cobo nek bayar po ra wes dadi gelandang aku.~" - *@irwan_x_yans*
+> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
