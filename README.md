@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tau gak? Kenapa kalau aku menghafal lihatnya ke atas? soalnya kalau merem langsung kebayang wajahmu." - *@irwan_x_yans*
+> "Aku janji gak bakal ninggalin kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
