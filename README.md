@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku janji gak bakal ninggalin kamu." - *@irwan_x_yans*
+> "Kamu tau gak apa persamaannya kamu sama AC? Sama-sama bikin aku sejuk." - *@irwan_x_yans*
 <!-- END_QUOTE -->
