@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tau gak apa persamaannya kamu sama AC? Sama-sama bikin aku sejuk." - *@irwan_x_yans*
+> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
