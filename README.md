@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesimpel ini deh, sibuk itu palsu, semua tergantung prioritas" - *@irwan_x_yans*
+> "Beberapa orang tinggal dalam hidupmu agar kau menghargai kenangan. Beberapa orang tinggal dalam kenangan agar kau menghargai hidupmu." - *Fiersa Besari*
 <!-- END_QUOTE -->
