@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Netizen kalau senam jempol di ponsel nggak pakai pendinginan, pantes komennya bikin panas terus." - *@irwan_x_yans*
+> "Mangunyah permen karet saat mengupas bawang mencegah kita menangis" - *@irwan_x_yans*
 <!-- END_QUOTE -->
