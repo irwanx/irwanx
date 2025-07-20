@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku hanya ingin hidup cukup. Cukup lihat senyummu setiap hari." - *@irwan_x_yans*
+> "Cuma kamu orang yang aku sayang, gak ada yang lain." - *@irwan_x_yans*
 <!-- END_QUOTE -->
