@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mangunyah permen karet saat mengupas bawang mencegah kita menangis" - *@irwan_x_yans*
+> "Aku hanya ingin hidup cukup. Cukup lihat senyummu setiap hari." - *@irwan_x_yans*
 <!-- END_QUOTE -->
