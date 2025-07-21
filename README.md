@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cuma kamu orang yang aku sayang, gak ada yang lain." - *@irwan_x_yans*
+> "Jika kita terus melakukan apa yang kita lakukan, kita akan terus mendapatkan apa yang kita dapatkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
