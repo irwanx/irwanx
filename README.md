@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika kita terus melakukan apa yang kita lakukan, kita akan terus mendapatkan apa yang kita dapatkan." - *@irwan_x_yans*
+> "Selingkuh? Yo sori, anak ketelu roto-roto setia kabeh.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
