@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sendiri itu tenang tidak ada pertengkaran kebohongan dan banyak aturan" - *@irwan_x_yans*
+> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
 <!-- END_QUOTE -->
