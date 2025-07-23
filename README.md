@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
+> "Terkadang seseorang terasa sangat bodoh hanya untuk mencintai seseorang." - *@irwan_x_yans*
 <!-- END_QUOTE -->
