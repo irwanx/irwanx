@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku suka kamu, kamu suka dia, tapi dia sayangnya nggak ke kamu. Wkwkw lucu ya? Cinta serumit ini." - *@irwan_x_yans*
+> "Aku bukan orang baik, tapi akan belajar jadi yang terbaik untuk kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
