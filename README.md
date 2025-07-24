@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hal pertama yang dilakukan orang sukses adalah memandang kegagalan sebagai sinyal positif untuk sukses." - *@irwan_x_yans*
+> "Aku masih ingat kamu tapi perasaanku sudah tidak sakit seperti dulu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
