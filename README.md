@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pada sebuah garis waktu yang merangkak maju,akan ada saatnya kau bertemu dengan satu orang yang mengubah hidupmu untuk selamanya. Kemudian satu orang tersebut akan menjadi bagian terbesar dalam agendamu. Dan hatimu takan memberikan pilihan apapun kecuali jatuh cinta, biarpun logika terus berkata bahwa risiko dari jatuh cinta adalah terjerembab di dasar nestapa." - *Fiersa Besari*
+> "Tetep dadi uwong sing penakan,  ditengah akeh e uwong seng sak penake dewe~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
