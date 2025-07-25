@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku masih ingat kamu tapi perasaanku sudah tidak sakit seperti dulu" - *@irwan_x_yans*
+> "Dia yang tertidur nyenyak setelah mematahkan hatimu tidak pantas untuk kamu ingat." - *@irwan_x_yans*
 <!-- END_QUOTE -->
