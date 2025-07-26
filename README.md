@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tetep dadi uwong sing penakan,  ditengah akeh e uwong seng sak penake dewe~" - *@irwan_x_yans*
+> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
