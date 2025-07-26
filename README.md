@@ -141,5 +141,5 @@ Other             8 hrs 40 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku suka kamu, kamu suka dia, tapi dia sayangnya nggak ke kamu. Wkwkw lucu ya? Cinta serumit ini." - *@irwan_x_yans*
+> "Jomblo. Mungkin itu cara Tuhan untuk mengatakan 'Istirahatlah dari cinta yang salah'." - *@irwan_x_yans*
 <!-- END_QUOTE -->
