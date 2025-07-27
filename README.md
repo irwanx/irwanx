@@ -141,5 +141,5 @@ Other             8 hrs 41 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja selalu menggiring keceriaan menuju kegelapan. Mungkin hanya mereka yang bersyukur yang mampu menyeka air mata untuk melihat bintang." - *@irwan_x_yans*
+> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
 <!-- END_QUOTE -->
