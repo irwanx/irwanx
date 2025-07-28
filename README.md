@@ -141,5 +141,5 @@ Other             8 hrs 41 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pengen kangen tapi raono sing di kangeni, kangen koe wae oleh ra?~" - *@irwan_x_yans*
+> "Orang kurus itu setia, makan aja tidak pernah nambah apalagi pasangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
