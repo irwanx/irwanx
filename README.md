@@ -141,5 +141,5 @@ Other             8 hrs 41 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
+> "Gak tau mau ngetik apa" - *@irwan_x_yans*
 <!-- END_QUOTE -->
