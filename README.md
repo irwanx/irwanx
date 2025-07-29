@@ -141,5 +141,5 @@ Other             8 hrs 41 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Orang kurus itu setia, makan aja tidak pernah nambah apalagi pasangan." - *@irwan_x_yans*
+> "Sukses biasanya datang kepada mereka yang terlalu sibuk mencarinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
