@@ -134,7 +134,7 @@ Other             8 hrs 41 mins   -------------------------   00.82 %
 
 ## 👁️ Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/irwanx/count.svg)
+![Visitor Count](https://count.getloli.com/@irwanx?name=irwanx&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
 
 ---
 
