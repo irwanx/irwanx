@@ -141,5 +141,5 @@ Other             8 hrs 45 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan cuma bisa inject hatinya,tapi harus bisa patchnya juga. Biar tidak selingkuh sama hacker lain." - *@irwan_x_yans*
+> "Terlalu sering memegang pensil alis dapat membuat mata menjadi buta, jika dicolok-colokkan ke mata." - *@irwan_x_yans*
 <!-- END_QUOTE -->
