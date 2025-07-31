@@ -141,5 +141,5 @@ Other             8 hrs 45 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Beberapa orang tinggal dalam hidupmu agar kau menghargai kenangan. Beberapa orang tinggal dalam kenangan agar kau menghargai hidupmu." - *Fiersa Besari*
+> "Pisang kaya akan vitamin B-Complex yang bisa menenangkan sistem saraf" - *@irwan_x_yans*
 <!-- END_QUOTE -->
