@@ -141,5 +141,5 @@ Other             8 hrs 47 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jomblo. Mungkin itu cara Tuhan untuk mengatakan 'Istirahatlah dari cinta yang salah'." - *@irwan_x_yans*
+> "Cita-citaku dulu pengen jadi dokter, tapi setelah mengenalmu, berubah jadi ingin membahagiakanmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
