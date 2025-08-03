@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sayang, capslock kamu nyala ya? | ngga, kenapa emangnya? | soalnya nama kamu ketulis gede bgt di hati aku | zzz! smile" - *@irwan_x_yans*
+> "Aku tidak mahir mengejar, tapi aku tahu cara menunggumu." - *Fiersa Besari*
 <!-- END_QUOTE -->
