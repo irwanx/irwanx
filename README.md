@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tidak mahir mengejar, tapi aku tahu cara menunggumu." - *Fiersa Besari*
+> "Perjuangkan sebelum pergi." - *Fiersa Besari*
 <!-- END_QUOTE -->
