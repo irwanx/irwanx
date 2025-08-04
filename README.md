@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Perjuangkan sebelum pergi." - *Fiersa Besari*
+> "Aku bukanlah VNC Server Tanpa Authentication yg bisa kamu pantau kapan saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
