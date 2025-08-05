@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan memberi perhatian lebih seperti itu cukup biasa saja tanpa perlu menimbulkan rasa" - *@irwan_x_yans*
+> "Katanya enggak bisa bohong. Iyalah, mata kan cuma bisa melihat." - *@irwan_x_yans*
 <!-- END_QUOTE -->
