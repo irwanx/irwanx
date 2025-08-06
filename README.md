@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku mencintaimu sebanyak hujan. Kau mencintaiku sesingkat senja. Seperti hujan, aku jatuh cinta berkali-kali. Seperti senja, kau jatuh cinta kemudian pergi." - *@irwan_x_yans*
+> "Aku rela dipenjara seumur hidup asalkan pelanggarannya karena mencintaimu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
