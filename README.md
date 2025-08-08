@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lambat laun kusadari, beberapa rindu memang harus sembunyi-sembunyi Bukan untuk disampaikan, hanya untuk dikirimkan lewat doa." - *Fiersa Besari*
+> "Gajian itu kayak mantan ya? Bisanya cuman lewat sebentar saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
