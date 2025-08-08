@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gajian itu kayak mantan ya? Bisanya cuman lewat sebentar saja." - *@irwan_x_yans*
+> "Aku bukan mencari yang sempurna tapi yang terbaik untukku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
