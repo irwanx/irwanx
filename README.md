@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku bukan mencari yang sempurna tapi yang terbaik untukku" - *@irwan_x_yans*
+> "Sukses bukanlah akhir, kegagalan tidak fatal. Yang terpenting adalah keberanian untuk melanjutkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
