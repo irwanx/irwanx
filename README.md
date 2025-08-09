@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sukses bukanlah akhir, kegagalan tidak fatal. Yang terpenting adalah keberanian untuk melanjutkan." - *@irwan_x_yans*
+> "Lebih baik gagal dalam orisinalitas daripada berhasil meniru." - *@irwan_x_yans*
 <!-- END_QUOTE -->
