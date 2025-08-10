@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.81 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jodoh memang enggak kemana, tapi saingannya ada dimana-mana." - *@irwan_x_yans*
+> "Aku tidak bisa selamanya menunggu dan kini aku menjadi ragu Apakah kamu masih mencintaiku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
