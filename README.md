@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.81 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tidak bisa selamanya menunggu dan kini aku menjadi ragu Apakah kamu masih mencintaiku" - *@irwan_x_yans*
+> "Jika kita kehilangan satu mata, kita akan kehilangan 1/5 dari pengelihatan kita dan kehilangan seluruh persepsi tentang kedalaman objek" - *@irwan_x_yans*
 <!-- END_QUOTE -->
