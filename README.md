@@ -141,5 +141,5 @@ Other             8 hrs 50 mins   -------------------------   00.81 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika kita kehilangan satu mata, kita akan kehilangan 1/5 dari pengelihatan kita dan kehilangan seluruh persepsi tentang kedalaman objek" - *@irwan_x_yans*
+> "Tertawa sebanyak 100 kali setara dengan mendayung selama 10 menit. [Dr William Fry dari Stanford Medical School]" - *@irwan_x_yans*
 <!-- END_QUOTE -->
