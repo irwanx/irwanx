@@ -141,5 +141,5 @@ Other             9 hrs 1 min     -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tertawa sebanyak 100 kali setara dengan mendayung selama 10 menit. [Dr William Fry dari Stanford Medical School]" - *@irwan_x_yans*
+> "Sing nglarani malah sing tak sayangi.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
