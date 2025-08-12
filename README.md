@@ -141,5 +141,5 @@ Other             9 hrs 1 min     -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sing nglarani malah sing tak sayangi.~" - *@irwan_x_yans*
+> "Wong liyo opo ngerti, betapa montang mantinge awakmu meskipun ketoke prengas prenges koyo wong edan.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
