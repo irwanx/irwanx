@@ -141,5 +141,5 @@ Other             9 hrs 3 mins    -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kita emang gak seumuran. Tapi bolehkan aku seumur hidup sama kamu." - *@irwan_x_yans*
+> "Kuda Nil kentut lewat mulut" - *@irwan_x_yans*
 <!-- END_QUOTE -->
