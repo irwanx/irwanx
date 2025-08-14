@@ -141,5 +141,5 @@ Other             9 hrs 3 mins    -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gigi berang-berang tak pernah berhenti " - *@irwan_x_yans*
+> "Cinta itu kaya hukuman mati. Kalau nggak ditembak, ya digantung." - *@irwan_x_yans*
 <!-- END_QUOTE -->
