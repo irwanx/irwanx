@@ -141,5 +141,5 @@ Other             9 hrs 3 mins    -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Momen cintaku tegak lurus dengan momen cintamu. Menjadikan cinta kita sebagai titik ekuilibrium yang sempurna." - *@irwan_x_yans*
+> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
