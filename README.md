@@ -141,5 +141,5 @@ Other             9 hrs 3 mins    -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cinta itu kaya hukuman mati. Kalau nggak ditembak, ya digantung." - *@irwan_x_yans*
+> "Momen cintaku tegak lurus dengan momen cintamu. Menjadikan cinta kita sebagai titik ekuilibrium yang sempurna." - *@irwan_x_yans*
 <!-- END_QUOTE -->
