@@ -141,5 +141,5 @@ Other             9 hrs 5 mins    -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
+> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
