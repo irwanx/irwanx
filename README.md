@@ -141,5 +141,5 @@ Other             9 hrs 5 mins    -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
+> "Percintaan itu fajar perkawinan. Perkawinan itu senja percintaan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
