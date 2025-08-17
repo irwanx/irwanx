@@ -141,5 +141,5 @@ Other             9 hrs 5 mins    -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Percintaan itu fajar perkawinan. Perkawinan itu senja percintaan." - *@irwan_x_yans*
+> "Lagi-lagi imajinasi menertawakanku karena selalu berhasil menemuimu." - *Fiersa Besari*
 <!-- END_QUOTE -->
