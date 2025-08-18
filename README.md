@@ -141,5 +141,5 @@ Other             9 hrs 5 mins    -------------------------   00.82 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tikus beranakpinak sangat cepat dan dalam waktu 18 bulan, dua tikus dapat memiliki lebih dari 1 juta keturunan" - *@irwan_x_yans*
+> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
