@@ -140,5 +140,5 @@ Other             9 hrs 12 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Saya bekerja keras karena sadar kalau uang nggak punya kaki buat jalan sendiri ke kantong saya." - *@irwan_x_yans*
+> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
