@@ -140,5 +140,5 @@ Other             9 hrs 12 mins   -------------------------   00.83 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
+> "Saya bekerja keras karena sadar kalau uang nggak punya kaki buat jalan sendiri ke kantong saya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
