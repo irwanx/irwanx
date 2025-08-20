@@ -140,5 +140,5 @@ Other             9 hrs 18 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Selingkuh terjadi bukan karena ada niat, selingkuh terjadi karna pacar kamu masih laku." - *@irwan_x_yans*
+> "Di Kerala, India selatan, Bunga kelapa digunakan untuk upacara Pernikahan" - *@irwan_x_yans*
 <!-- END_QUOTE -->
