@@ -140,5 +140,5 @@ Other             9 hrs 18 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
+> "Selingkuh terjadi bukan karena ada niat, selingkuh terjadi karna pacar kamu masih laku." - *@irwan_x_yans*
 <!-- END_QUOTE -->
