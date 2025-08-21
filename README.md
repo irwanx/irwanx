@@ -140,5 +140,5 @@ Other             9 hrs 18 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bayangno yangmu ngajak koe neng ngomahe, terus mbokne ngomong 'seng koyo ngene iki diajak neng ngomah!'~" - *@irwan_x_yans*
+> "Kalo kamu lagi di AS, Patung Liberty ga akan bawa obor tapi bakal bawa BUNGA!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
