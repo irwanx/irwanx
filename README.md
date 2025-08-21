@@ -140,5 +140,5 @@ Other             9 hrs 18 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Di Kerala, India selatan, Bunga kelapa digunakan untuk upacara Pernikahan" - *@irwan_x_yans*
+> "Bayangno yangmu ngajak koe neng ngomahe, terus mbokne ngomong 'seng koyo ngene iki diajak neng ngomah!'~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
