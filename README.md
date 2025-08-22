@@ -140,5 +140,5 @@ Other             9 hrs 18 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalo kamu lagi di AS, Patung Liberty ga akan bawa obor tapi bakal bawa BUNGA!" - *@irwan_x_yans*
+> "Masih berharap dan terus berharap lama-lama aku jadi juara harapan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
