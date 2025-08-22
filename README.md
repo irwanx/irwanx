@@ -140,5 +140,5 @@ Other             9 hrs 18 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Masih berharap dan terus berharap lama-lama aku jadi juara harapan." - *@irwan_x_yans*
+> "Aku memang programmer PHP,tapi aku nggak akan php-in kamu kok." - *@irwan_x_yans*
 <!-- END_QUOTE -->
