@@ -140,5 +140,5 @@ Other             9 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku memang programmer PHP,tapi aku nggak akan php-in kamu kok." - *@irwan_x_yans*
+> "Jomblo gak usah diam rumah mumpung malam minggu ya keluar jalan lah kan jomblo bebas bisa dekat sama siapapun pacar orang mantan sahabat bahkan sendiri atau bareng setan pun bisa" - *@irwan_x_yans*
 <!-- END_QUOTE -->
