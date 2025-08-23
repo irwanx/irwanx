@@ -140,5 +140,5 @@ Other             9 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jomblo gak usah diam rumah mumpung malam minggu ya keluar jalan lah kan jomblo bebas bisa dekat sama siapapun pacar orang mantan sahabat bahkan sendiri atau bareng setan pun bisa" - *@irwan_x_yans*
+> "Kalau jelangkungnya kaya kamu, dateng aku jemput, pulang aku anter deh." - *@irwan_x_yans*
 <!-- END_QUOTE -->
