@@ -140,5 +140,5 @@ Other             9 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku rela dipenjara seumur hidup asalkan pelanggarannya karena mencintaimu." - *@irwan_x_yans*
+> "Gak tau mau ngetik apa" - *@irwan_x_yans*
 <!-- END_QUOTE -->
