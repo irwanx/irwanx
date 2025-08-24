@@ -140,5 +140,5 @@ Other             9 hrs 25 mins   -------------------------   00.84 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau jelangkungnya kaya kamu, dateng aku jemput, pulang aku anter deh." - *@irwan_x_yans*
+> "Aku rela dipenjara seumur hidup asalkan pelanggarannya karena mencintaimu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
