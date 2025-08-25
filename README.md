@@ -140,5 +140,5 @@ Other             9 hrs 42 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gak tau mau ngetik apa" - *@irwan_x_yans*
+> "Aku ora pernah ngerti opo kui tresno, kajaba sak bare ketemu karo sliramu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
