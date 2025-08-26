@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tau gak, apa bedanya kamu sama jam 12:00? kalo jam 12: kesiangan, kalo kamu kesayangan." - *@irwan_x_yans*
+> "Aku hanya ingin hidup cukup. Cukup lihat senyummu setiap hari." - *@irwan_x_yans*
 <!-- END_QUOTE -->
