@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Secara fisik, babi tidak bisa melihat ke langit" - *@irwan_x_yans*
+> "Tahu gak kenapa kita cuma bisa lihat pelangi setengah lingkaran? Sebab setengahnya lagi ada di mata kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
