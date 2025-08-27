@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku hanya ingin hidup cukup. Cukup lihat senyummu setiap hari." - *@irwan_x_yans*
+> "Secara fisik, babi tidak bisa melihat ke langit" - *@irwan_x_yans*
 <!-- END_QUOTE -->
