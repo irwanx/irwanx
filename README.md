@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "KDE kalah Cantiknya, GNOME kalah Simplenya, FluxBox kalah Ringannya, pokonya Semua DE itu Kalah Sama Kamu." - *@irwan_x_yans*
+> "Menyayangimu sangatlah mudah, aku bisa melakukannya berulang kali tanpa pernah bosan. Yang sulit itu cara menunjukkannya." - *Fiersa Besari*
 <!-- END_QUOTE -->
