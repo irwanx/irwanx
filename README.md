@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Menyayangimu sangatlah mudah, aku bisa melakukannya berulang kali tanpa pernah bosan. Yang sulit itu cara menunjukkannya." - *Fiersa Besari*
+> "Cintaku kepadamu itu bagaikan metabolisme, yang gak akan berhenti sampai mati." - *@irwan_x_yans*
 <!-- END_QUOTE -->
