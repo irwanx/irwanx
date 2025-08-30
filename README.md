@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dalam realitas kita berdua hanyalah dua orang yang berlari. Aku sibuk mengejarmu, kau sibuk menghindariku. Oh, tenang. Aku tidak lelah. Justru, aku menikmati prosesnya." - *Fiersa Besari*
+> "Di tengah angin senja yang mendesak, aku merasakan kekuasaan waktu, yang tanpa pandang bulu mengubah segala-galanya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
