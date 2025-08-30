@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan." - *@irwan_x_yans*
+> "Dalam realitas kita berdua hanyalah dua orang yang berlari. Aku sibuk mengejarmu, kau sibuk menghindariku. Oh, tenang. Aku tidak lelah. Justru, aku menikmati prosesnya." - *Fiersa Besari*
 <!-- END_QUOTE -->
