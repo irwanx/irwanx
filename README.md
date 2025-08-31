@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seberat apapun pekerjaanmu, akan semakin ringan jika tidak dibawa." - *@irwan_x_yans*
+> "Jika tidak bisa menghapus seseorang dari ingatanmu, mungkin memang ia digariskan untuk ada disana. Sudahlah, manusia akan melupa pada saatnya." - *Fiersa Besari*
 <!-- END_QUOTE -->
