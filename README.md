@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kita memang ditakdirkan untuk jauh raga oleh jarak. Tapi, kita juga ditakdirkan untuk melihat senja yang sama tanpa jarak." - *@irwan_x_yans*
+> "Jangan habiskan waktumu memukuli tembok dan berharap bisa mengubahnya menjadi pintu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
