@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika tidak bisa menghapus seseorang dari ingatanmu, mungkin memang ia digariskan untuk ada disana. Sudahlah, manusia akan melupa pada saatnya." - *Fiersa Besari*
+> "Kita memang ditakdirkan untuk jauh raga oleh jarak. Tapi, kita juga ditakdirkan untuk melihat senja yang sama tanpa jarak." - *@irwan_x_yans*
 <!-- END_QUOTE -->
