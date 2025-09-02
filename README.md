@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan habiskan waktumu memukuli tembok dan berharap bisa mengubahnya menjadi pintu." - *@irwan_x_yans*
+> "Selelah-lelahnya bekerja, lebih lelah lagi kalau nganggur." - *@irwan_x_yans*
 <!-- END_QUOTE -->
