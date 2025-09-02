@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Selelah-lelahnya bekerja, lebih lelah lagi kalau nganggur." - *@irwan_x_yans*
+> "Pesene simbok: Rausah mandang bondo, seng terpenting dee ngerti kekuranganmu tapi dee ra lungo~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
