@@ -94,9 +94,9 @@ class Irwanx {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-iota-inky-90.vercel.app/api?username=irwanx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-iota-inky-90.vercel.app/api?username=irwanx&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-iota-inky-90.vercel.app/api/top-langs?username=irwanx&theme=nightowl&hide_border=false&layout=compact&langs_count=5&hide=css&count_private=true)
+![Top Languages](https://github-readme-stats-iota-inky-90.vercel.app/api/top-langs?username=irwanx&theme=nightowl&hide_border=false&layout=donut-vertical&langs_count=8&count_private=true)
 
 ---
 
