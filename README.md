@@ -140,5 +140,5 @@ Other             9 hrs 43 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pesene simbok: Rausah mandang bondo, seng terpenting dee ngerti kekuranganmu tapi dee ra lungo~" - *@irwan_x_yans*
+> "Soyo ayu pacarmu, soyo ra tenang awakmu~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
