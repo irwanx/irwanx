@@ -140,5 +140,5 @@ Other             9 hrs 48 mins   -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Orang kurus itu setia, makan aja tidak pernah nambah apalagi pasangan." - *@irwan_x_yans*
+> "Ada lebih dari 300 bakteri pembentuk karang gigi" - *@irwan_x_yans*
 <!-- END_QUOTE -->
