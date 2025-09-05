@@ -140,5 +140,5 @@ Other             9 hrs 59 mins   -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ada lebih dari 300 bakteri pembentuk karang gigi" - *@irwan_x_yans*
+> "Kamu itu seperti kopi yang aku seruput pagi ini. Pahit, tapi bikin nagih." - *@irwan_x_yans*
 <!-- END_QUOTE -->
