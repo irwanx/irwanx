@@ -140,5 +140,5 @@ Other             9 hrs 59 mins   -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja memang begitu indah, namun cahaya mentari tetap tak tergantikan, meski dengan lilin yang bersinar sangat terang sekalipun." - *@irwan_x_yans*
+> "Ternyata dia bukan senja, jingganya tak hangatkan luka. Dia hanyalah angin yang sekadar singgah kemudian pergi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
