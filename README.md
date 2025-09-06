@@ -140,5 +140,5 @@ Other             9 hrs 59 mins   -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mungkin kelak akan ada senja yang sepi untukmu, satu persatu kenangan mulai kau ingat, dan tersenyum ketika giliranku lewat." - *@irwan_x_yans*
+> "Senja memang begitu indah, namun cahaya mentari tetap tak tergantikan, meski dengan lilin yang bersinar sangat terang sekalipun." - *@irwan_x_yans*
 <!-- END_QUOTE -->
