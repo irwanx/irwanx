@@ -140,5 +140,5 @@ Other             10 hrs 7 mins   -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Wong wedok sing dikepruk nganggo tabong gas ora nesu, idamanku banget.~" - *@irwan_x_yans*
+> "Pengalaman adalah guru yang berat karena dia memberikan tes terlebih dahulu, kemudian pelajarannya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
