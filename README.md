@@ -140,5 +140,5 @@ Other             10 hrs 11 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tidak perlu takut. Tunjukan saja warna-warnimu yang sesungguhnya. Bahkan lukisan terbaik sedunia pun mempunyai pembenci dan pengkritik." - *Fiersa Besari*
+> "Kamu suka kopi nggak? Aku sih suka. Tau kenapa alesannya? Kopi itu ibarat kamu, pahit sih tapi bikin candu jadi pingin terus." - *@irwan_x_yans*
 <!-- END_QUOTE -->
