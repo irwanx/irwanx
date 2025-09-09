@@ -140,5 +140,5 @@ Other             10 hrs 11 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jane sepiro si enake susune pacarmu, sampe wes ratau ngopi karo konco-koncomu.~" - *@irwan_x_yans*
+> "Tidak perlu takut. Tunjukan saja warna-warnimu yang sesungguhnya. Bahkan lukisan terbaik sedunia pun mempunyai pembenci dan pengkritik." - *Fiersa Besari*
 <!-- END_QUOTE -->
