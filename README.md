@@ -140,5 +140,5 @@ Other             10 hrs 12 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku gak bisa hidup tanpa kamu." - *@irwan_x_yans*
+> "Jangan GR deh. Aku kangen kamu sedikit aja kok. Sedikit berlebihan maksudnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
