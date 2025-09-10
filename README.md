@@ -140,5 +140,5 @@ Other             10 hrs 12 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu suka kopi nggak? Aku sih suka. Tau kenapa alesannya? Kopi itu ibarat kamu, pahit sih tapi bikin candu jadi pingin terus." - *@irwan_x_yans*
+> "Aku gak bisa hidup tanpa kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
