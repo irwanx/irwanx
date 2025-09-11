@@ -140,5 +140,5 @@ Other             10 hrs 16 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan GR deh. Aku kangen kamu sedikit aja kok. Sedikit berlebihan maksudnya." - *@irwan_x_yans*
+> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
