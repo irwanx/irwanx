@@ -140,5 +140,5 @@ Other             10 hrs 18 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan jadi pelangi untuk orang yang buta warna." - *@irwan_x_yans*
+> "Kita tidak mati, tapi lukanya yang membuat kita tidak bisa berjalan seperti dulu lagi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
