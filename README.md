@@ -140,5 +140,5 @@ Other             10 hrs 18 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan paksa aku menjadi cewek seperti seleramu" - *@irwan_x_yans*
+> "Jangan jadi pelangi untuk orang yang buta warna." - *@irwan_x_yans*
 <!-- END_QUOTE -->
