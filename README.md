@@ -140,5 +140,5 @@ Other             10 hrs 20 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kita tidak mati, tapi lukanya yang membuat kita tidak bisa berjalan seperti dulu lagi." - *@irwan_x_yans*
+> "Sudah banyak senja yang kulalui, namun belum pernah kulewati senja yang membawamu kembali." - *@irwan_x_yans*
 <!-- END_QUOTE -->
