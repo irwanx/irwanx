@@ -140,5 +140,5 @@ Other             10 hrs 20 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sudah banyak senja yang kulalui, namun belum pernah kulewati senja yang membawamu kembali." - *@irwan_x_yans*
+> "Jangan terlalu berharap! nanti jatuhnya sakit!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
