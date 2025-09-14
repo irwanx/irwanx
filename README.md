@@ -140,5 +140,5 @@ Other             10 hrs 21 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika hati ini tak mampu membendung segala kerinduan, apa daya tak ada yang bisa aku lakukan selain mendoakanmu." - *@irwan_x_yans*
+> "Secuek-cueknya kamu ke aku, aku tetap sayang sama kamu karena kamu telah menerima aku apa adanya" - *@irwan_x_yans*
 <!-- END_QUOTE -->
