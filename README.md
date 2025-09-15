@@ -140,5 +140,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Perjuangkan sebelum pergi." - *Fiersa Besari*
+> "Akan tiba saatnya kita temukan alasan paling tepat untuk berjuang. Jika telah tiba, genggam erat. Sesuatu yang istimewa takan datang dua kali." - *Fiersa Besari*
 <!-- END_QUOTE -->
