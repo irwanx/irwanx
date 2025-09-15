@@ -140,5 +140,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Secuek-cueknya kamu ke aku, aku tetap sayang sama kamu karena kamu telah menerima aku apa adanya" - *@irwan_x_yans*
+> "Perjuangkan sebelum pergi." - *Fiersa Besari*
 <!-- END_QUOTE -->
