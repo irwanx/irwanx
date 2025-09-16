@@ -140,5 +140,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau kamu jadi senar gitar, aku nggak mau jadi gitarisnya. Karena aku nggak mau mutusin kamu." - *@irwan_x_yans*
+> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
 <!-- END_QUOTE -->
