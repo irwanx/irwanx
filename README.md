@@ -140,5 +140,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku bukanlah VNC Server Tanpa Authentication yg bisa kamu pantau kapan saja." - *@irwan_x_yans*
+> "Orang kurus itu setia, makan aja tidak pernah nambah apalagi pasangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
