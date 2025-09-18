@@ -93,10 +93,13 @@ class Irwanx {
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-iota-inky-90.vercel.app/api?username=irwanx&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-iota-inky-90.vercel.app/api/top-langs?username=irwanx&theme=nightowl&hide_border=false&layout=donut-vertical&langs_count=8&count_private=true)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 4px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irwanx&theme=moonlight" alt="Profile Details" style="width: 98%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irwanx&theme=moonlight" alt="Repos per Language" style="width: 49%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irwanx&theme=moonlight" alt="Most Commit Language" style="width: 49%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=irwanx&theme=moonlight" alt="Stats" style="width: 49%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irwanx&theme=moonlight&utcOffset=7" alt="Productive Time" style="width: 49%; max-width: 300px;">
+</div>
 
 ---
 
