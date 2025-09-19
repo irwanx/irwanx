@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
+> "Dia yang tertidur nyenyak setelah mematahkan hatimu tidak pantas untuk kamu ingat." - *@irwan_x_yans*
 <!-- END_QUOTE -->
