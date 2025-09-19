@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dia yang tertidur nyenyak setelah mematahkan hatimu tidak pantas untuk kamu ingat." - *@irwan_x_yans*
+> "Penduduk di dunia telah meningkat 3,1 miliar dalam 40 tahun terakhir" - *@irwan_x_yans*
 <!-- END_QUOTE -->
