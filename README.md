@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ingin kamu bisa langgeng sama aku dan yang aku harapkan kamu bisa jadi jodohku" - *@irwan_x_yans*
+> "Ono ora wong wedok seng mikir ngene 'ohh yo aku kan wes ndue de.e, ngopo iseh ngresponi wong liyo'~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
