@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ono ora wong wedok seng mikir ngene 'ohh yo aku kan wes ndue de.e, ngopo iseh ngresponi wong liyo'~" - *@irwan_x_yans*
+> "Nyaahna aa ka neg teh jiga tukang bank keur nagih hutang (hayoh mumuntil)." - *@irwan_x_yans*
 <!-- END_QUOTE -->
