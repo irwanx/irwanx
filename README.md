@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nyaahna aa ka neg teh jiga tukang bank keur nagih hutang (hayoh mumuntil)." - *@irwan_x_yans*
+> "Tolong jangan pergi saat aku sudah sangat sayang padamu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
