@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tolong jangan pergi saat aku sudah sangat sayang padamu" - *@irwan_x_yans*
+> "Sukses biasanya datang kepada mereka yang terlalu sibuk mencarinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
