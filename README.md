@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cewek strong itu adalah yang sabar dan tetap tersenyum meskipun dalam keadaan terluka" - *@irwan_x_yans*
+> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
 <!-- END_QUOTE -->
