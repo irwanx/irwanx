@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
+> "cinta kita tak akan bisa dipisahkan walau setebal apapun itu firewall...!!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
