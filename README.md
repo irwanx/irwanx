@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ndes! nek kadung gabut, kabeh tak anggep pacarku.~" - *@irwan_x_yans*
+> "Musuhku adalah mereka yang ingin memilikimu juga." - *@irwan_x_yans*
 <!-- END_QUOTE -->
