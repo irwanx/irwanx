@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Menurut penelitian, pria cenderung menurunkan volume suaranya ketika ia berbicara dg seseorang yg ia cintai, sementara perempuan sebaliknya" - *@irwan_x_yans*
+> "Aku ndes! nek kadung gabut, kabeh tak anggep pacarku.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
