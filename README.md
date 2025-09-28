@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kegagalan bukan suatu keberhasilan." - *@irwan_x_yans*
+> "Aku rela dipenjara seumur hidup asalkan pelanggarannya karena mencintaimu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
