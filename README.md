@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Musuhku adalah mereka yang ingin memilikimu juga." - *@irwan_x_yans*
+> "Kegagalan bukan suatu keberhasilan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
