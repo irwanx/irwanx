@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Untuk apa memajang foto kita berdua? Cita-citaku ingin fotomu ada di buku nikahku." - *Fiersa Besari*
+> "Kamu tau gak? Kenapa kalau aku menghafal lihatnya ke atas? soalnya kalau merem langsung kebayang wajahmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
