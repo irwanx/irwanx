@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tau gak? Kenapa kalau aku menghafal lihatnya ke atas? soalnya kalau merem langsung kebayang wajahmu." - *@irwan_x_yans*
+> "Jika tidak bisa menghapus seseorang dari ingatanmu, mungkin memang ia digariskan untuk ada disana. Sudahlah, manusia akan melupa pada saatnya." - *Fiersa Besari*
 <!-- END_QUOTE -->
