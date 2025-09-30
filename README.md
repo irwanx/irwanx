@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika tidak bisa menghapus seseorang dari ingatanmu, mungkin memang ia digariskan untuk ada disana. Sudahlah, manusia akan melupa pada saatnya." - *Fiersa Besari*
+> "Ingat, setia itu memang sulit, tapi lihatlah jingga. Selalu menggenapkan warnanya, demi senja di setiap harinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
