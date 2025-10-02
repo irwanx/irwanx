@@ -143,5 +143,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dulu, pada suatu ketika, senja pernah indah, seindah janji-janji yang berujung menjadi sumpah serapah." - *@irwan_x_yans*
+> "Tanggal merah sekalipun aku tidak libur untuk memikirkan kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
