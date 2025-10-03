@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tau ga, kenapa jarjit selalu awali pantun dengan dua tiga? karena nomor satu itu kamu" - *@irwan_x_yans*
+> "Hay cantik, aku ganggu kamu g?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
