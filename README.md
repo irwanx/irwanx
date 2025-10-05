@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Teruntuk seng lahiran 2000, koe lahir opo mbayar parkir !~" - *@irwan_x_yans*
+> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
 <!-- END_QUOTE -->
