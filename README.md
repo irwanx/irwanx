@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tuhan, bersama tenggelamnya matahari senja ini,redakanlah kekecewaan dan kemarahan di hati ini. Sabarkanlah aku. Aamiin." - *@irwan_x_yans*
+> "Sesimpel ini deh, sibuk itu palsu, semua tergantung prioritas" - *@irwan_x_yans*
 <!-- END_QUOTE -->
