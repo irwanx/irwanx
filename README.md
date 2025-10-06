@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kata “lethologica” menggambarkan saat dimana kita tidak bisa mengingat apa yang kita inginkan" - *@irwan_x_yans*
+> "Tuhan, bersama tenggelamnya matahari senja ini,redakanlah kekecewaan dan kemarahan di hati ini. Sabarkanlah aku. Aamiin." - *@irwan_x_yans*
 <!-- END_QUOTE -->
