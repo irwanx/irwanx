@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesimpel ini deh, sibuk itu palsu, semua tergantung prioritas" - *@irwan_x_yans*
+> "Wes gede ojo sambat perkoro cinta, eling wes jembuten !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
