@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tahu gak kenapa kita cuma bisa lihat pelangi setengah lingkaran? Sebab setengahnya lagi ada di mata kamu." - *@irwan_x_yans*
+> "Sakit itu ketika cinta yang aku beri tidak kamu hargai" - *@irwan_x_yans*
 <!-- END_QUOTE -->
