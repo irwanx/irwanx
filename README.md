@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sakit itu ketika cinta yang aku beri tidak kamu hargai" - *@irwan_x_yans*
+> "Lihat kebunku, penuh dengan bunga. Lihat matamu, hatiku berbunga-bunga." - *@irwan_x_yans*
 <!-- END_QUOTE -->
