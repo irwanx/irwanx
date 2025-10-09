@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lihat kebunku, penuh dengan bunga. Lihat matamu, hatiku berbunga-bunga." - *@irwan_x_yans*
+> "Dan aku hilang, bukan berarti tak ingin dicari." - *Fiersa Besari*
 <!-- END_QUOTE -->
