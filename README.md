@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dan aku hilang, bukan berarti tak ingin dicari." - *Fiersa Besari*
+> "Jika kamu merindukan seseorang, tataplah matahari sore. Kirimkan pesan rindumu untuknya lewat senja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
