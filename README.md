@@ -209,5 +209,5 @@ Other             10 hrs 22 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kepada pria yang selalu ada di doaku aku mencintaimu dengan tulus apa adanya" - *@irwan_x_yans*
+> "Senja akan selalu seperti itu. Datang dengan keindahannya, dan lalu akan pergi begitu saja dengan sangat cepat, tergantikan dengan kehampaan malam yang sunyi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
