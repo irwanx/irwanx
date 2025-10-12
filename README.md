@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja akan selalu seperti itu. Datang dengan keindahannya, dan lalu akan pergi begitu saja dengan sangat cepat, tergantikan dengan kehampaan malam yang sunyi." - *@irwan_x_yans*
+> "Kalau orang kebutuhan primernya ada tiga yaitu sandang pangan dan papan, tapi kalau aku : kamu, kamu, kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
