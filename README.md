@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau orang kebutuhan primernya ada tiga yaitu sandang pangan dan papan, tapi kalau aku : kamu, kamu, kamu." - *@irwan_x_yans*
+> "Perasaan laksana hujan, tak pernah datang dengan maksud yang jahat. Keadaan dan waktulah yang membuat kita membenci kedatangannya." - *Fiersa Besari*
 <!-- END_QUOTE -->
