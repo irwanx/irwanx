@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nek mung gawe nyaman terus di tinggal lungo, tukang pijet kae yo iso !~" - *@irwan_x_yans*
+> "Pamer tok ra dikentu, yo rugi ndes !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
