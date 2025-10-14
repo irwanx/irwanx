@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pamer tok ra dikentu, yo rugi ndes !~" - *@irwan_x_yans*
+> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
 <!-- END_QUOTE -->
