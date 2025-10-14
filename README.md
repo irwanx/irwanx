@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
+> "Gak usah nyari celah xss deh, karena ketika kamu ngeklik hatiku udah muncul pop up namamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
