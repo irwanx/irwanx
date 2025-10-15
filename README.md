@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku memang programmer PHP,tapi aku nggak akan php-in kamu kok." - *@irwan_x_yans*
+> "Jangan pernah berhenti melakukan yang terbaik hanya karena seseorang tidak memberi Anda penghargaan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
