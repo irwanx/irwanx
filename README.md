@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan pernah berhenti melakukan yang terbaik hanya karena seseorang tidak memberi Anda penghargaan." - *@irwan_x_yans*
+> "Sahabat mencarimu ketika yang lain mencacimu. Mereka merangkulmu ketika yang lain memukulmu." - *Fiersa Besari*
 <!-- END_QUOTE -->
