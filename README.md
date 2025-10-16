@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sahabat mencarimu ketika yang lain mencacimu. Mereka merangkulmu ketika yang lain memukulmu." - *Fiersa Besari*
+> "Menyayangimu sangatlah mudah, aku bisa melakukannya berulang kali tanpa pernah bosan. Yang sulit itu cara menunjukkannya." - *Fiersa Besari*
 <!-- END_QUOTE -->
