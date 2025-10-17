@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku sering cemburu sama lipstikmu. Dia bisa nyium kamu tiap hari, dari pagi sampai malam." - *@irwan_x_yans*
+> "Aku rela ikut lomba lari keliling dunia, asalkan engkau yang menjadi garis finisnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
