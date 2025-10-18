@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Semakin besar “Navel” pada Jeruk Navel, semakin manis buahnya" - *@irwan_x_yans*
+> "Semakin kesini semakin pengen kenal sama kamu, semakin pengen Deket, semakin pengen lindungin kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
