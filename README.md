@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Rindu kui gratis, nyewo kamare seng mbayar~" - *@irwan_x_yans*
+> "Tau gak, apa bedanya kamu sama jam 12:00? kalo jam 12: kesiangan, kalo kamu kesayangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
