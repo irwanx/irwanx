@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
+> "Semua beruang kutub kidal" - *@irwan_x_yans*
 <!-- END_QUOTE -->
