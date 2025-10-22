@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Beli jamu dari orang kendari, melihatmu seperti bidadari" - *@irwan_x_yans*
+> "Jika kamu tanya berapa kali kamu datang ke pikiranku, jujur saja, cuma sekali. Habisnya, gak pergi-pergi sih!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
