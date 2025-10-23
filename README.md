@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ciri khas orang sukses adalah mereka selalu berusaha keras untuk mempelajari hal-hal baru." - *@irwan_x_yans*
+> "Aku ora pernah ngerti opo kui tresno, kajaba sak bare ketemu karo sliramu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
