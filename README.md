@@ -209,5 +209,5 @@ Other             10 hrs 23 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika kamu tanya berapa kali kamu datang ke pikiranku, jujur saja, cuma sekali. Habisnya, gak pergi-pergi sih!" - *@irwan_x_yans*
+> "Ciri khas orang sukses adalah mereka selalu berusaha keras untuk mempelajari hal-hal baru." - *@irwan_x_yans*
 <!-- END_QUOTE -->
