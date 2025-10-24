@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
+> "Hanya mendengar namamu saja sudah bisa membuatku tersenyum seperti orang bodoh." - *@irwan_x_yans*
 <!-- END_QUOTE -->
