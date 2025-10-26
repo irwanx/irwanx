@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Wong lanang njaluk pap kui ra mergo mandang fisik dek, tapi di duduhno neng wong tuone, wes cocok opo durung.~" - *@irwan_x_yans*
+> "Kamu tau gak apa persamaannya kamu sama AC? Sama-sama bikin aku sejuk." - *@irwan_x_yans*
 <!-- END_QUOTE -->
