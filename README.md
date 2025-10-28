@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku sayang kamu tapi aku masih takut untuk mencintaimu" - *@irwan_x_yans*
+> "Jomblo tidak perlu malu, jomblo bukan berarti tidak laku, tapi memang tidak ada yang mau." - *@irwan_x_yans*
 <!-- END_QUOTE -->
