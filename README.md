@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalo aku chat kamu ada yang marah gak?" - *@irwan_x_yans*
+> "Masa sih ninggalin kamu, susah tau cari orang yang kaya kamu, yang sampe bikin aku sayang banget kaya gini." - *@irwan_x_yans*
 <!-- END_QUOTE -->
