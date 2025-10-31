@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Masa sih ninggalin kamu, susah tau cari orang yang kaya kamu, yang sampe bikin aku sayang banget kaya gini." - *@irwan_x_yans*
+> "Aku rela ikut lomba lari keliling dunia, asalkan engkau yang menjadi garis finisnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
