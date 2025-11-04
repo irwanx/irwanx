@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalo kamu lagi di AS, Patung Liberty ga akan bawa obor tapi bakal bawa BUNGA!" - *@irwan_x_yans*
+> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
