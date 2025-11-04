@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tau gak, apa bedanya kamu sama jam 12:00? kalo jam 12: kesiangan, kalo kamu kesayangan." - *@irwan_x_yans*
+> "Kalo kamu lagi di AS, Patung Liberty ga akan bawa obor tapi bakal bawa BUNGA!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
