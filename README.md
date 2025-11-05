@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
+> "Jangan pernah mengeluh ketika kopimu dingin, ia pernah hangat, namun kau diamkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
