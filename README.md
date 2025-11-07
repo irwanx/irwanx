@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gak usah nyari celah xss deh, karena ketika kamu ngeklik hatiku udah muncul pop up namamu." - *@irwan_x_yans*
+> "Kamu tau gak? Lukisan itukan makin lama makin antik, kalo kamu makin lama makin cantik" - *@irwan_x_yans*
 <!-- END_QUOTE -->
