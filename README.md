@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup saya aja yang banyak janji, wakil rakyat jangan." - *@irwan_x_yans*
+> "Gak usah nyari celah xss deh, karena ketika kamu ngeklik hatiku udah muncul pop up namamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
