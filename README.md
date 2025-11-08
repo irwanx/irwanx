@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku bukan orang baik, tapi akan belajar jadi yang terbaik untuk kamu." - *@irwan_x_yans*
+> "Wong aku bobrok koyo ngene, mosok arep dadi pujaan hatimu~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
