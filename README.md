@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tau gak? Lukisan itukan makin lama makin antik, kalo kamu makin lama makin cantik" - *@irwan_x_yans*
+> "Aku bukan orang baik, tapi akan belajar jadi yang terbaik untuk kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
