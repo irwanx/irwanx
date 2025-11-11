@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cewek strong itu adalah yang sabar dan tetap tersenyum meskipun dalam keadaan terluka" - *@irwan_x_yans*
+> "Jangan takut gagal. Ketakutan berada di tempat yang sama tahun depan seperti Anda saat ini." - *@irwan_x_yans*
 <!-- END_QUOTE -->
