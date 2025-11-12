@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika mereka bertanya padaku apakah aku menyesal, jawabanku adalah tidak. Berhasil ataupun gagal, aku bangga hidup di atas keputusan yang kubuat sendiri." - *Fiersa Besari*
+> "Bahasa gaul di australia “She’s Apple” bukan berarti “Dia (wanita) manis” tetapi berarti “Semuanya baik2 saja”" - *@irwan_x_yans*
 <!-- END_QUOTE -->
