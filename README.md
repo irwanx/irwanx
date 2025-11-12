@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bahasa gaul di australia “She’s Apple” bukan berarti “Dia (wanita) manis” tetapi berarti “Semuanya baik2 saja”" - *@irwan_x_yans*
+> "Pamer tok ra dikentu, yo rugi ndes !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
