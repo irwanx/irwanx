@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pamer tok ra dikentu, yo rugi ndes !~" - *@irwan_x_yans*
+> "Bersikap keras kepala tentang tujuan Anda dan fleksibel tentang metode Anda." - *@irwan_x_yans*
 <!-- END_QUOTE -->
