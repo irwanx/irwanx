@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cara terbaik untuk memulai adalah dengan berhenti berbicara dan mulai melakukan." - *@irwan_x_yans*
+> "Kira-kira 100 orang tersedak ballpoint tiap tahun" - *@irwan_x_yans*
 <!-- END_QUOTE -->
