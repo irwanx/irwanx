@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "India mempunyai Undang-undang hak untuk sapi" - *@irwan_x_yans*
+> "Keadilan sosial hanya berlaku bagi warna negara yang good looking." - *@irwan_x_yans*
 <!-- END_QUOTE -->
