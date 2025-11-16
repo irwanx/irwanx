@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Keadilan sosial hanya berlaku bagi warna negara yang good looking." - *@irwan_x_yans*
+> "98% dari perkosaan dan pembunuhan dilakukan oleh keluarga dekat atau teman korban" - *@irwan_x_yans*
 <!-- END_QUOTE -->
