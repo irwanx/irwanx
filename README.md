@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "98% dari perkosaan dan pembunuhan dilakukan oleh keluarga dekat atau teman korban" - *@irwan_x_yans*
+> "Jangan cuma bisa inject hatinya,tapi harus bisa patchnya juga. Biar tidak selingkuh sama hacker lain." - *@irwan_x_yans*
 <!-- END_QUOTE -->
