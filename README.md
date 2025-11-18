@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau orang kebutuhan primernya ada tiga yaitu sandang pangan dan papan, tapi kalau aku : kamu, kamu, kamu." - *@irwan_x_yans*
+> "Kata “depp” dalam bahasa Jerman artinya “idiot”" - *@irwan_x_yans*
 <!-- END_QUOTE -->
