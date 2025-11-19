@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sahabat mencarimu ketika yang lain mencacimu. Mereka merangkulmu ketika yang lain memukulmu." - *Fiersa Besari*
+> "Jangan pernah mengeluh ketika kopimu dingin, ia pernah hangat, namun kau diamkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
