@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kata “depp” dalam bahasa Jerman artinya “idiot”" - *@irwan_x_yans*
+> "Sahabat mencarimu ketika yang lain mencacimu. Mereka merangkulmu ketika yang lain memukulmu." - *Fiersa Besari*
 <!-- END_QUOTE -->
