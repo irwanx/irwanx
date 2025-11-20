@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gengsi kok di gedekne, mending nggedekne susumu sing isih cilik kui dek.~" - *@irwan_x_yans*
+> "Aku punya sejuta alasan unutk melupakanmu, tapi tak ada yang bisa memaksaku untuk berhenti mencintaimu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
