@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan pernah mengeluh ketika kopimu dingin, ia pernah hangat, namun kau diamkan." - *@irwan_x_yans*
+> "Gengsi kok di gedekne, mending nggedekne susumu sing isih cilik kui dek.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
