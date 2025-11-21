@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hay cantik, aku ganggu kamu g?" - *@irwan_x_yans*
+> "Cinta tak bisa dijelaskan dengan kata-kata saja, karena cinta hanya mampu dirasakan oleh hati" - *@irwan_x_yans*
 <!-- END_QUOTE -->
