@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Katanya enggak bisa bohong. Iyalah, mata kan cuma bisa melihat." - *@irwan_x_yans*
+> "Senyumu bagaikan cooler yang menyejukan hatiku ketika sedang overclock." - *@irwan_x_yans*
 <!-- END_QUOTE -->
