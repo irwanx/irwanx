@@ -209,5 +209,5 @@ Other             10 hrs 27 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senyumu bagaikan cooler yang menyejukan hatiku ketika sedang overclock." - *@irwan_x_yans*
+> "cintaku kan ku Ctrl+A lalu kan ku Ctrl+C dan kan ku Ctrl+V tepat di folder system hatimu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
