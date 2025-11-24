@@ -209,5 +209,5 @@ Other              10 hrs 43 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tulung yo ndes seng rabi ojo kroyokan, lek wani siji-siji, disini saya sebagai penyumbang mengaku kewalahan mobat mabit golek silihan duit.~" - *@irwan_x_yans*
+> "Aku mengalah. Aku mengalah karena aku percaya, kalau kau memang untukku, sejauh apapun kakimu membawamu lari, jalan yang kau tempuh hanya akan membawamu kembali padaku." - *Fiersa Besari*
 <!-- END_QUOTE -->
