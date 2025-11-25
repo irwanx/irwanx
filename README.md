@@ -209,5 +209,5 @@ Other              10 hrs 43 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku mengalah. Aku mengalah karena aku percaya, kalau kau memang untukku, sejauh apapun kakimu membawamu lari, jalan yang kau tempuh hanya akan membawamu kembali padaku." - *Fiersa Besari*
+> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
 <!-- END_QUOTE -->
