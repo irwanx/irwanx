@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
+> "Siput bisa tidur selama 3 tahun" - *@irwan_x_yans*
 <!-- END_QUOTE -->
