@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Siput bisa tidur selama 3 tahun" - *@irwan_x_yans*
+> "Cukup China aja yang jauh, cinta kita jangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
