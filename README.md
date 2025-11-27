@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cara terbaik untuk memulai adalah dengan berhenti berbicara dan mulai melakukan." - *@irwan_x_yans*
+> "Hampa itu seperti langkah tak berjejak, senja tapi tak jingga, cinta tapi tak dianggap" - *@irwan_x_yans*
 <!-- END_QUOTE -->
