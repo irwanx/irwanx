@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tak kandani dek, wong setia koyo aku ki rabakal teko pindo.~" - *@irwan_x_yans*
+> "Aku tidak mahir mengejar, tapi aku tahu cara menunggumu." - *Fiersa Besari*
 <!-- END_QUOTE -->
