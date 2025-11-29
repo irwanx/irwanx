@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tidak mahir mengejar, tapi aku tahu cara menunggumu." - *Fiersa Besari*
+> "Hidup ini hanya sebentar jadi lepaskan saja mereka yang menyakitimu Sayangi Mereka yang peduli padamu dan perjuangan mereka yang berarti bagimu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
