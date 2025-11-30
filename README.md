@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gak tau mau ngetik apa" - *@irwan_x_yans*
+> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
