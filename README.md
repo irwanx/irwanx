@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
+> "Dia hanya menghargaimu, bukan mencintaimu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
