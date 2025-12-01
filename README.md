@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku akan ingat kenangan pahit itu dan aku akan jadikan pelajaran untuk masa depan yang manis" - *@irwan_x_yans*
+> "Ingat! Anda itu jomblo" - *@irwan_x_yans*
 <!-- END_QUOTE -->
