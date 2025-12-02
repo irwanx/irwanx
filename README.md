@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sayang, capslock kamu nyala ya? | ngga, kenapa emangnya? | soalnya nama kamu ketulis gede bgt di hati aku | zzz! smile" - *@irwan_x_yans*
+> "Sayang, jangan lupa minum air putih yang banyak ya biar ginjal kamu tetap sehat bulan depan kan mau dijual." - *@irwan_x_yans*
 <!-- END_QUOTE -->
