@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sayang, jangan lupa minum air putih yang banyak ya biar ginjal kamu tetap sehat bulan depan kan mau dijual." - *@irwan_x_yans*
+> "Dalam dinginnya malam, tak kuingat lagi; Berapa sering aku memikirkanmu juga merindukanmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
