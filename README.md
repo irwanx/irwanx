@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hidup bukan tentang menunggu badai berlalu, tetapi belajar menari di tengah hujan." - *@irwan_x_yans*
+> "Menurut penelitian, PR terlalu banyak sebenarnya dapat menyebabkan siswa menjadi stres, depresi & mendapat nilai lebih rendah" - *@irwan_x_yans*
 <!-- END_QUOTE -->
