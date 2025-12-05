@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
+> "Perut memproduksi lapisan lendir setiap dua minggu agar perut tidak mencerna organnya sendiri" - *@irwan_x_yans*
 <!-- END_QUOTE -->
