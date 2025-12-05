@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pulau Giliyang di Sumenep, Jawa Timur disebut sbg pulau “Awet Muda” karena pulau ini memiliki kandungan oksigen terbaik di dunia. [tempo co]" - *@irwan_x_yans*
+> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
