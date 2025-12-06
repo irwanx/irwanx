@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mending sing humoris tapi manis, ketimbang sok romantis tapi akhire tragis." - *@irwan_x_yans*
+> "Hidup bukan tentang menunggu badai berlalu, tetapi belajar menari di tengah hujan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
