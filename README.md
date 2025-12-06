@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Perut memproduksi lapisan lendir setiap dua minggu agar perut tidak mencerna organnya sendiri" - *@irwan_x_yans*
+> "Mending sing humoris tapi manis, ketimbang sok romantis tapi akhire tragis." - *@irwan_x_yans*
 <!-- END_QUOTE -->
