@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Karena sesungguhnya, yang lebih menyakitkan dari melepaskan sesuatu adalah berpegangan pada sesuatu yang menyakitimu secara perlahan." - *Fiersa Besari*
+> "Jika doamu belum terkabul maka bersabar, ingatlah bahwa yang berdoa bukan cuma kamu!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
