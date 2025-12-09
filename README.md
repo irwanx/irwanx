@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cita-citaku dulu pengen jadi dokter, tapi setelah mengenalmu, berubah jadi ingin membahagiakanmu." - *@irwan_x_yans*
+> "Salahku ra sepiro, tegelmu ra kiro-kiro~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
