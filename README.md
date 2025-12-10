@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "kamu adalah terminalku, dimana aku menghabiskan waktuku untuk mengetikan beribu baris kode cinta untukmu smile" - *@irwan_x_yans*
+> "Untuk apa memajang foto kita berdua? Cita-citaku ingin fotomu ada di buku nikahku." - *Fiersa Besari*
 <!-- END_QUOTE -->
