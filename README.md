@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tahu mantan nggak? Mantan itu ibarat gajian, biasa numpang lewat dong di kehidupan kita." - *@irwan_x_yans*
+> "CocaCola dulu berwarna hijau" - *@irwan_x_yans*
 <!-- END_QUOTE -->
