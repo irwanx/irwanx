@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "CocaCola dulu berwarna hijau" - *@irwan_x_yans*
+> "Bayangno yangmu ngajak koe neng ngomahe, terus mbokne ngomong 'seng koyo ngene iki diajak neng ngomah!'~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
