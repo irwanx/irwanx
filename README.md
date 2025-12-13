@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
+> "Ada yang tak tenggelam ketika senja datang: Rasa." - *@irwan_x_yans*
 <!-- END_QUOTE -->
