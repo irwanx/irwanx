@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bisakah hatimu seperti angsa yang hanya setia pada satu orang saja" - *@irwan_x_yans*
+> "Aku rela ko jadi Processor yg kepanasan, asalkan kmu yg jadi heatsink'y yg setiap saat bisa mendinginkan ku." - *@irwan_x_yans*
 <!-- END_QUOTE -->
