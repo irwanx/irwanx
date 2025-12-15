@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Rapopo elek, jare mbahku nek kontole gedi oleh bojo seng ayu.~" - *@irwan_x_yans*
+> "Bisakah hatimu seperti angsa yang hanya setia pada satu orang saja" - *@irwan_x_yans*
 <!-- END_QUOTE -->
