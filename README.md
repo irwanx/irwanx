@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hanya dengan mengurangi brightness dari televisi, anda mampu berhemat lebih dari Rp 1,5 juta setahun. [kompas]" - *@irwan_x_yans*
+> "Aku rela ikut lomba lari keliling dunia, asalkan engkau yang menjadi garis finisnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
