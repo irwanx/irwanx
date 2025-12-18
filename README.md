@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gazzarella adalah keju mozzarella yang terbuat dari susu kucing. 61. Rata-rata orang melihat / mengecek ponselnya sekitar 150 kali sehari. (Laporan Nokia pada MindTrek 2010)" - *@irwan_x_yans*
+> "Kamu tau gak? Lukisan itukan makin lama makin antik, kalo kamu makin lama makin cantik" - *@irwan_x_yans*
 <!-- END_QUOTE -->
