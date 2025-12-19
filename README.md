@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tau gak? Lukisan itukan makin lama makin antik, kalo kamu makin lama makin cantik" - *@irwan_x_yans*
+> "Jika rencananya tidak berhasil, ubah rencananya bukan tujuannya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
