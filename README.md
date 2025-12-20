@@ -209,5 +209,5 @@ Other              10 hrs 44 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku masih ingat kamu tapi perasaanku sudah tidak sakit seperti dulu" - *@irwan_x_yans*
+> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
