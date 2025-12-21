@@ -210,5 +210,5 @@ Other              10 hrs 44 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika rencananya tidak berhasil, ubah rencananya bukan tujuannya." - *@irwan_x_yans*
+> "Jika tidak bisa mewarnai hidup seseorang, maka jangan pudarkan warna aslinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
