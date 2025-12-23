@@ -210,5 +210,5 @@ Other              10 hrs 44 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ganteng ora, ireng iyo, lucu yo ora, sugeh opo meneh, ncen dasare ra mbangkat disayang~" - *@irwan_x_yans*
+> "Kenapa senja terdengar lebih romantis dari fajar? Karena perpisahan akan lebih mudah dikenang dari pada pertemuan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
