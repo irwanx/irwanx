@@ -210,5 +210,5 @@ Other              10 hrs 44 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lemes ndes, ndelok koncoku ndue yang kabeh !~" - *@irwan_x_yans*
+> "Takan mulia kau menunggu permintaan maaf. Takan hina kau meminta maaf terlebih dahulu." - *Fiersa Besari*
 <!-- END_QUOTE -->
