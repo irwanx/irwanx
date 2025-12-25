@@ -210,5 +210,5 @@ Other              10 hrs 44 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Takan mulia kau menunggu permintaan maaf. Takan hina kau meminta maaf terlebih dahulu." - *Fiersa Besari*
+> "Cukup saya aja yang banyak janji, wakil rakyat jangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
