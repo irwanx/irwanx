@@ -210,5 +210,5 @@ Other              10 hrs 44 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup saya aja yang banyak janji, wakil rakyat jangan." - *@irwan_x_yans*
+> "Aku rela ikut lomba lari keliling dunia, asalkan engkau yang menjadi garis finisnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
