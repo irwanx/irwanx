@@ -210,5 +210,5 @@ Other              10 hrs 44 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sebutir kismis yang dijatuhkan kedalam gelas berisi sampanye segar akan bergerak naik turun dalam gelas" - *@irwan_x_yans*
+> "Cintaku padamu seperti kecap bango, soal rasa tak pernah bohong." - *@irwan_x_yans*
 <!-- END_QUOTE -->
