@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cintaku padamu seperti kecap bango, soal rasa tak pernah bohong." - *@irwan_x_yans*
+> "Aku mencintaimu sebanyak hujan. Kau mencintaiku sesingkat senja. Seperti hujan, aku jatuh cinta berkali-kali. Seperti senja, kau jatuh cinta kemudian pergi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
