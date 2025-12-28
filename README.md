@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Masa aku harus pake teknik symlink bypass buat buka-buka folder hatimu yg open_basedir enabled." - *@irwan_x_yans*
+> "Kalau mencintaimu adalah kesalahan, yasudah, biar aku salah terus saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
