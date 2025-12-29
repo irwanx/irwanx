@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau mencintaimu adalah kesalahan, yasudah, biar aku salah terus saja." - *@irwan_x_yans*
+> "Jangan jadi pelangi untuk orang yang buta warna." - *@irwan_x_yans*
 <!-- END_QUOTE -->
