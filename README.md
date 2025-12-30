@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku rela jadi abang nasi goreng asalkan setiap malam aku bisa lewat depan rumah kamu." - *@irwan_x_yans*
+> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
 <!-- END_QUOTE -->
