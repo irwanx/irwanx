@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku cuma sayang ke kamu doang." - *@irwan_x_yans*
+> "Sudah banyak senja yang kulalui, namun belum pernah kulewati senja yang membawamu kembali." - *@irwan_x_yans*
 <!-- END_QUOTE -->
