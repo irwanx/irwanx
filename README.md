@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku memang programmer PHP,tapi aku nggak akan php-in kamu kok." - *@irwan_x_yans*
+> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
 <!-- END_QUOTE -->
