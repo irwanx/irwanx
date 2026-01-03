@@ -210,5 +210,5 @@ Other              10 hrs 45 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jomblo tidak perlu malu, jomblo bukan berarti tidak laku, tapi memang tidak ada yang mau." - *@irwan_x_yans*
+> "Cobalah terdiam sejenak untuk memikirkan bagaimana caranya agar kita dapat menyelesaikan masalah ini bersama-sama" - *@irwan_x_yans*
 <!-- END_QUOTE -->
