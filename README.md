@@ -210,5 +210,5 @@ Other              10 hrs 42 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cobalah terdiam sejenak untuk memikirkan bagaimana caranya agar kita dapat menyelesaikan masalah ini bersama-sama" - *@irwan_x_yans*
+> "Takan mulia kau menunggu permintaan maaf. Takan hina kau meminta maaf terlebih dahulu." - *Fiersa Besari*
 <!-- END_QUOTE -->
