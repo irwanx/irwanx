@@ -210,5 +210,5 @@ Other              10 hrs 42 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Takan mulia kau menunggu permintaan maaf. Takan hina kau meminta maaf terlebih dahulu." - *Fiersa Besari*
+> "Punya kalimat sendiri & mau ditambahin? chat *.owner*" - *@irwan_x_yans*
 <!-- END_QUOTE -->
