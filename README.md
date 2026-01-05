@@ -210,5 +210,5 @@ Other              10 hrs 42 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Punya kalimat sendiri & mau ditambahin? chat *.owner*" - *@irwan_x_yans*
+> "Dulu kita selalu mengucap kata sayang di penghujung malam. Kini, kita tidak lebih dari dua orang asing yang merindukan masa lalu secara diam-diam." - *Fiersa Besari*
 <!-- END_QUOTE -->
