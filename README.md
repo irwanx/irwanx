@@ -210,5 +210,5 @@ Other              10 hrs 42 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dulu kita selalu mengucap kata sayang di penghujung malam. Kini, kita tidak lebih dari dua orang asing yang merindukan masa lalu secara diam-diam." - *Fiersa Besari*
+> "Sukses adalah mendapatkan apa yang kamu inginkan, kebahagiaan menginginkan apa yang kamu dapatkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
