@@ -210,5 +210,5 @@ Other              11 hrs 7 mins   -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Janganlah pernah menyerah ketika Anda masih mampu berusaha lagi. Tidak ada kata berakhir sampai Anda berhenti mencoba." - *@irwan_x_yans*
+> "Masa sih, cewe secantik kamu belum punya pacar?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
