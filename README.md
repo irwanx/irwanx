@@ -210,5 +210,5 @@ Other              11 hrs 24 mins  -------------------------   00.92 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Layung senja telah mencuatkan sinar indahnya. Akan tetapi, kenapa kamu masih saja tetap di posisi yang sama dan dengan perasaan yang sama." - *@irwan_x_yans*
+> "Sesimpel ini deh, sibuk itu palsu, semua tergantung prioritas" - *@irwan_x_yans*
 <!-- END_QUOTE -->
