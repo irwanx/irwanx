@@ -210,5 +210,5 @@ Other              11 hrs 25 mins  -------------------------   00.92 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
+> "Cintaku kepadamu itu bagaikan metabolisme, yang gak akan berhenti sampai mati." - *@irwan_x_yans*
 <!-- END_QUOTE -->
