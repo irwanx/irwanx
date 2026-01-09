@@ -210,5 +210,5 @@ Other              11 hrs 25 mins  -------------------------   00.92 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesimpel ini deh, sibuk itu palsu, semua tergantung prioritas" - *@irwan_x_yans*
+> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
