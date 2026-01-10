@@ -210,5 +210,5 @@ Other              11 hrs 25 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jodoh memang enggak kemana, tapi saingannya ada dimana-mana." - *@irwan_x_yans*
+> "Ternyata dia bukan senja, jingganya tak hangatkan luka. Dia hanyalah angin yang sekadar singgah kemudian pergi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
