@@ -210,5 +210,5 @@ Other              11 hrs 25 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cintaku kepadamu itu bagaikan metabolisme, yang gak akan berhenti sampai mati." - *@irwan_x_yans*
+> "Jodoh memang enggak kemana, tapi saingannya ada dimana-mana." - *@irwan_x_yans*
 <!-- END_QUOTE -->
