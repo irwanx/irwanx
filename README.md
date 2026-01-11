@@ -210,5 +210,5 @@ Other              11 hrs 28 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "4 simbol raja pada kartu remi melambangkan 4 raja yang etrkenal di jaman masing-masing: Sekop = David/Raja Daud ; Keriting = Alexander the Great/Iskandar Agung ; Hati = Charlemagne/ Raja Prancis ; Wajik =Julius Caesar" - *@irwan_x_yans*
+> "Enak ya jadi kamu, kalau mau liat bidadari, tinggal liat di kaca." - *@irwan_x_yans*
 <!-- END_QUOTE -->
