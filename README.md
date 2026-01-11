@@ -210,5 +210,5 @@ Other              11 hrs 28 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ternyata dia bukan senja, jingganya tak hangatkan luka. Dia hanyalah angin yang sekadar singgah kemudian pergi." - *@irwan_x_yans*
+> "4 simbol raja pada kartu remi melambangkan 4 raja yang etrkenal di jaman masing-masing: Sekop = David/Raja Daud ; Keriting = Alexander the Great/Iskandar Agung ; Hati = Charlemagne/ Raja Prancis ; Wajik =Julius Caesar" - *@irwan_x_yans*
 <!-- END_QUOTE -->
