@@ -210,5 +210,5 @@ Other              11 hrs 28 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mahluk yang bisa tersipu-sipu hanya manusia" - *@irwan_x_yans*
+> "Tetap tersenyum walaluku masih dibuat menunggu dan rindu olehmu, tapi itu demi kamu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
