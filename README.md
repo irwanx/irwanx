@@ -210,5 +210,5 @@ Other              11 hrs 28 mins  -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tetap tersenyum walaluku masih dibuat menunggu dan rindu olehmu, tapi itu demi kamu" - *@irwan_x_yans*
+> "Bekerja saat mereka tidur. Belajar saat mereka berpesta. Hemat sementara mereka menghabiskan. Hiduplah seperti mimpi mereka." - *@irwan_x_yans*
 <!-- END_QUOTE -->
