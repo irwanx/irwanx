@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bekerja saat mereka tidur. Belajar saat mereka berpesta. Hemat sementara mereka menghabiskan. Hiduplah seperti mimpi mereka." - *@irwan_x_yans*
+> "Senja tak pernah salah hanya kenangan yang membuatnya basah." - *@irwan_x_yans*
 <!-- END_QUOTE -->
