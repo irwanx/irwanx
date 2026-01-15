@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Katanya enggak bisa bohong. Iyalah, mata kan cuma bisa melihat." - *@irwan_x_yans*
+> "Jangan jadi pelangi untuk orang yang buta warna." - *@irwan_x_yans*
 <!-- END_QUOTE -->
