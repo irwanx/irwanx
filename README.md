@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan jadi pelangi untuk orang yang buta warna." - *@irwan_x_yans*
+> "Rata-rata hujan jatuh dengan kecepatan 7 mil per jam" - *@irwan_x_yans*
 <!-- END_QUOTE -->
