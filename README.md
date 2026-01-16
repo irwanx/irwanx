@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Rata-rata hujan jatuh dengan kecepatan 7 mil per jam" - *@irwan_x_yans*
+> "Jangan cuma bisa inject hatinya,tapi harus bisa patchnya juga. Biar tidak selingkuh sama hacker lain." - *@irwan_x_yans*
 <!-- END_QUOTE -->
