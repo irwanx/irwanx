@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tetep dadi uwong sing penakan,  ditengah akeh e uwong seng sak penake dewe~" - *@irwan_x_yans*
+> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
 <!-- END_QUOTE -->
