@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lebih baik gagal dalam orisinalitas daripada berhasil meniru." - *@irwan_x_yans*
+> "Di dalam dekapan sang senja, diriku mengharapkan sebuah asa, yang dapat membuat semesta yang fana menjadi semesta yang penuh warna." - *@irwan_x_yans*
 <!-- END_QUOTE -->
