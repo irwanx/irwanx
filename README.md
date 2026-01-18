@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
+> "Lebih baik gagal dalam orisinalitas daripada berhasil meniru." - *@irwan_x_yans*
 <!-- END_QUOTE -->
