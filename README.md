@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Di dalam dekapan sang senja, diriku mengharapkan sebuah asa, yang dapat membuat semesta yang fana menjadi semesta yang penuh warna." - *@irwan_x_yans*
+> "Tau gak, apa bedanya kamu sama jam 12:00? kalo jam 12: kesiangan, kalo kamu kesayangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
