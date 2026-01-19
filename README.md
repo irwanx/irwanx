@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tau gak, apa bedanya kamu sama jam 12:00? kalo jam 12: kesiangan, kalo kamu kesayangan." - *@irwan_x_yans*
+> "Jika tidak bisa mewarnai hidup seseorang, maka jangan pudarkan warna aslinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
