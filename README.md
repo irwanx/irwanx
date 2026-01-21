@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sok sok an pamer poto nikah muda, padahal asline meteng ndisek~" - *@irwan_x_yans*
+> "Jangan GR deh. Aku kangen kamu sedikit aja kok. Sedikit berlebihan maksudnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
