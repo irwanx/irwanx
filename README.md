@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan GR deh. Aku kangen kamu sedikit aja kok. Sedikit berlebihan maksudnya." - *@irwan_x_yans*
+> "Ayo pisan-pisan nglarani wae, mosok dilarani terus, yo kesel to su !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
