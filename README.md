@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ayo pisan-pisan nglarani wae, mosok dilarani terus, yo kesel to su !~" - *@irwan_x_yans*
+> "Saat itu, hujan gerimis di kala Sang Dewi malam beranjak menjadi saksi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
