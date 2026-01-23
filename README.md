@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Berdiri lama tanpa menekuk lutuk sama sekali akan membuat kita pingsan" - *@irwan_x_yans*
+> "Perasaan laksana hujan, tak pernah datang dengan maksud yang jahat. Keadaan dan waktulah yang membuat kita membenci kedatangannya." - *Fiersa Besari*
 <!-- END_QUOTE -->
