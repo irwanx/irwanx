@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Perasaan laksana hujan, tak pernah datang dengan maksud yang jahat. Keadaan dan waktulah yang membuat kita membenci kedatangannya." - *Fiersa Besari*
+> "Semut selalu jatuh miring ke kanan jika diberi racun serangga" - *@irwan_x_yans*
 <!-- END_QUOTE -->
