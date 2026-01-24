@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Semut selalu jatuh miring ke kanan jika diberi racun serangga" - *@irwan_x_yans*
+> "Satu hal kebahagiaan di sekolah yang terus membuatku semangat adalah bisa melihat senyumanmu setiap hari." - *@irwan_x_yans*
 <!-- END_QUOTE -->
