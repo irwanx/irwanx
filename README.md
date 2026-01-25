@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hanya bisa diam dan berfikir Kenapa orang yang setia dan baik ditinggalin yang nakal dikejar-kejar giliran ditinggalin bilangnya laki-laki itu semuanya sama" - *@irwan_x_yans*
+> "Di bawah alismu hujan berteduh. Di merah matamu senja berlabuh." - *@irwan_x_yans*
 <!-- END_QUOTE -->
