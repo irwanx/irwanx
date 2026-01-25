@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Di bawah alismu hujan berteduh. Di merah matamu senja berlabuh." - *@irwan_x_yans*
+> "Cie meh ngechat aku tapi gengsi.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
