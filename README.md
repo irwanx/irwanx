@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hal pertama yang dilakukan orang sukses adalah memandang kegagalan sebagai sinyal positif untuk sukses." - *@irwan_x_yans*
+> "Aku deketin kamu cuma untuk redirect ke hati temenmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
