@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cie meh ngechat aku tapi gengsi.~" - *@irwan_x_yans*
+> "Hal pertama yang dilakukan orang sukses adalah memandang kegagalan sebagai sinyal positif untuk sukses." - *@irwan_x_yans*
 <!-- END_QUOTE -->
