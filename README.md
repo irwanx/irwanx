@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Keraguan membunuh lebih banyak mimpi daripada kegagalan." - *@irwan_x_yans*
+> "Selelah-lelahnya bekerja, lebih lelah lagi kalau nganggur." - *@irwan_x_yans*
 <!-- END_QUOTE -->
