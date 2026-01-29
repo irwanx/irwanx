@@ -210,5 +210,5 @@ Other              11 hrs 29 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cita-citaku dulu pengen jadi dokter, tapi setelah mengenalmu, berubah jadi ingin membahagiakanmu." - *@irwan_x_yans*
+> "Sukses biasanya datang kepada mereka yang terlalu sibuk mencarinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
