@@ -210,5 +210,5 @@ Other              11 hrs 30 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lebih baik gagal dalam orisinalitas daripada berhasil meniru." - *@irwan_x_yans*
+> "Jangan tunda pekerjaanmu sampai besok, sementara kau bisa mengerjakannya hari ini." - *@irwan_x_yans*
 <!-- END_QUOTE -->
