@@ -210,5 +210,5 @@ Other              11 hrs 31 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ketekunan gagal 19 kali dan berhasil pada kesempatam yang ke-20." - *@irwan_x_yans*
+> "Kita tidak mati, tapi lukanya yang membuat kita tidak bisa berjalan seperti dulu lagi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
