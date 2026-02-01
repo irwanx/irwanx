@@ -210,5 +210,5 @@ Other              11 hrs 31 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kita tidak mati, tapi lukanya yang membuat kita tidak bisa berjalan seperti dulu lagi." - *@irwan_x_yans*
+> "Perjuangkan sebelum pergi." - *Fiersa Besari*
 <!-- END_QUOTE -->
