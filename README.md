@@ -176,19 +176,19 @@ class Irwanx {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 January 2024 - To: 31 January 2026
+From: 30 January 2024 - To: 01 February 2026
 
-Total Time: 1,288 hrs 6 mins
+Total Time: 1,289 hrs 31 mins
 
-JavaScript         366 hrs 28 mins >>>>>>>------------------   28.20 %
-TypeScript         345 hrs 6 mins  >>>>>>>------------------   26.55 %
-PHP                315 hrs 10 mins >>>>>>-------------------   24.25 %
+JavaScript         367 hrs 53 mins >>>>>>>------------------   28.28 %
+TypeScript         345 hrs 6 mins  >>>>>>>------------------   26.53 %
+PHP                315 hrs 10 mins >>>>>>-------------------   24.22 %
 Python             44 hrs 22 mins  >------------------------   03.41 %
-Dart               41 hrs 54 mins  >------------------------   03.23 %
+Dart               41 hrs 54 mins  >------------------------   03.22 %
 HTML               34 hrs 5 mins   >------------------------   02.62 %
-EJS                26 hrs 12 mins  >------------------------   02.02 %
+EJS                26 hrs 12 mins  >------------------------   02.01 %
 CSS                24 hrs 36 mins  -------------------------   01.89 %
-Other              11 hrs 31 mins  -------------------------   00.89 %
+Other              11 hrs 33 mins  -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
