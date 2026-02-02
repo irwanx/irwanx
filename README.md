@@ -210,5 +210,5 @@ Other              11 hrs 33 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
+> "Aku berusaha mendapatkan cinta darimu tetapi Kamunya nggak peka" - *@irwan_x_yans*
 <!-- END_QUOTE -->
