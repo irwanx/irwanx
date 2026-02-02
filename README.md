@@ -210,5 +210,5 @@ Other              11 hrs 33 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Perjuangkan sebelum pergi." - *Fiersa Besari*
+> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
