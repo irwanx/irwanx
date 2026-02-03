@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.89 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku berusaha mendapatkan cinta darimu tetapi Kamunya nggak peka" - *@irwan_x_yans*
+> "Optimistis adalah salah satu kualitas yang lebih terkait dengan kesuksesan dan kebahagiaan daripada yang lain." - *@irwan_x_yans*
 <!-- END_QUOTE -->
