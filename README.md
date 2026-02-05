@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Arabic numerals bukan berasal dari Arab, tapi diciptakan di India" - *@irwan_x_yans*
+> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
 <!-- END_QUOTE -->
