@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
+> "Malam membuatku ingin menulis rindu, bukan untuk kau baca. Karena rindu yang sesungguhnya telah kau tinggal di tepian senja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
