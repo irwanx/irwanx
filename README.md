@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seberat apapun pekerjaanmu, akan semakin ringan jika tidak dibawa." - *@irwan_x_yans*
+> "Burung umumnya tidak berkicau apabila mereka hinggap di tanah (Hummingbirdworld)" - *@irwan_x_yans*
 <!-- END_QUOTE -->
