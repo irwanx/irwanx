@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Burung umumnya tidak berkicau apabila mereka hinggap di tanah (Hummingbirdworld)" - *@irwan_x_yans*
+> "KDE kalah Cantiknya, GNOME kalah Simplenya, FluxBox kalah Ringannya, pokonya Semua DE itu Kalah Sama Kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
