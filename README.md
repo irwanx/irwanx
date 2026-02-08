@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tidak pernah berpikir kamu akan menjadi yang sementara" - *@irwan_x_yans*
+> "Tuhan, bersama tenggelamnya matahari senja ini,redakanlah kekecewaan dan kemarahan di hati ini. Sabarkanlah aku. Aamiin." - *@irwan_x_yans*
 <!-- END_QUOTE -->
