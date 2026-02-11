@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau aku memang tidak sayang sama kamu ngapain aku mikirin kamu. Tapi semuanya kamu yang ngganggap aku gak sayang sama kamu" - *@irwan_x_yans*
+> "Kegagalan bukan suatu keberhasilan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
