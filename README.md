@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kegagalan bukan suatu keberhasilan." - *@irwan_x_yans*
+> "Pap dong cantikk...." - *@irwan_x_yans*
 <!-- END_QUOTE -->
