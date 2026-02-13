@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Enak ya jadi kamu, kalau mau liat bidadari, tinggal liat di kaca." - *@irwan_x_yans*
+> "Seng pas cilik pengen cepet-cepet gede, pie kabare mumet ora ndase?~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
