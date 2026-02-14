@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Akan tiba saatnya kita temukan alasan paling tepat untuk berjuang. Jika telah tiba, genggam erat. Sesuatu yang istimewa takan datang dua kali." - *Fiersa Besari*
+> "Hampa itu seperti langkah tak berjejak, senja tapi tak jingga, cinta tapi tak dianggap" - *@irwan_x_yans*
 <!-- END_QUOTE -->
