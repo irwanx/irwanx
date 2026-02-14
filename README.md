@@ -210,5 +210,5 @@ Other              11 hrs 37 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seng pas cilik pengen cepet-cepet gede, pie kabare mumet ora ndase?~" - *@irwan_x_yans*
+> "Akan tiba saatnya kita temukan alasan paling tepat untuk berjuang. Jika telah tiba, genggam erat. Sesuatu yang istimewa takan datang dua kali." - *Fiersa Besari*
 <!-- END_QUOTE -->
