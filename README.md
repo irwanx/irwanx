@@ -210,5 +210,5 @@ Other              11 hrs 39 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
+> "Orang kurus itu setia, makan aja tidak pernah nambah apalagi pasangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
