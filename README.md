@@ -210,5 +210,5 @@ Other              11 hrs 39 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hampa itu seperti langkah tak berjejak, senja tapi tak jingga, cinta tapi tak dianggap" - *@irwan_x_yans*
+> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
