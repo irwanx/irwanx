@@ -210,5 +210,5 @@ Other              11 hrs 39 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Orang kurus itu setia, makan aja tidak pernah nambah apalagi pasangan." - *@irwan_x_yans*
+> "Balikan sama kamu itu sama saja bunuh diri dan melukai perasaan ku sendiri" - *@irwan_x_yans*
 <!-- END_QUOTE -->
