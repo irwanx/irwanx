@@ -210,5 +210,5 @@ Other              11 hrs 39 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Balikan sama kamu itu sama saja bunuh diri dan melukai perasaan ku sendiri" - *@irwan_x_yans*
+> "Jika pena berganti rupa menjadi daun senja, biarlah dia mengering, lalu tersapu angin, sendiri dan dibiarkan oleh sepi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
