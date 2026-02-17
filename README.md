@@ -210,5 +210,5 @@ Other              11 hrs 40 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika pena berganti rupa menjadi daun senja, biarlah dia mengering, lalu tersapu angin, sendiri dan dibiarkan oleh sepi." - *@irwan_x_yans*
+> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
 <!-- END_QUOTE -->
