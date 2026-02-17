@@ -210,5 +210,5 @@ Other              11 hrs 40 mins  -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nggak ada yang peduli denganmu di sosmed kecuali kamu cakep" - *@irwan_x_yans*
+> "Masa sih, cewe secantik kamu belum punya pacar?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
