@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.88 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tak menyangka kamu pergi dan melupakan ku begitu cepat" - *@irwan_x_yans*
+> "Tak perlu membalas dengan menyakiti biar Karma yang akan urus semua itu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
