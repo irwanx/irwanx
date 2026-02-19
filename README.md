@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Butuh 10 tahun bagi Leonardo Da Vinci untuk melukis Mona Lisa. Lukisan itu tidak ditandai dan di beri tanggal. Leonardo dan Mona mempunya susunan tulang yang persis sama dan menurut sinar X, ada 3 versi lukisan dibawah lukisan itu" - *@irwan_x_yans*
+> "Aku tak tahu sebenarnya di dalam hatimu itu ada aku atau dia" - *@irwan_x_yans*
 <!-- END_QUOTE -->
