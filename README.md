@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tak perlu membalas dengan menyakiti biar Karma yang akan urus semua itu" - *@irwan_x_yans*
+> "Butuh 10 tahun bagi Leonardo Da Vinci untuk melukis Mona Lisa. Lukisan itu tidak ditandai dan di beri tanggal. Leonardo dan Mona mempunya susunan tulang yang persis sama dan menurut sinar X, ada 3 versi lukisan dibawah lukisan itu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
