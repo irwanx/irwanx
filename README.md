@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ingin kamu bisa langgeng sama aku dan yang aku harapkan kamu bisa jadi jodohku" - *@irwan_x_yans*
+> "Senja mengajarkan pada kita, bahwa kehidupan tak selalu berjalan dengan cemerlang dan bersinar." - *@irwan_x_yans*
 <!-- END_QUOTE -->
