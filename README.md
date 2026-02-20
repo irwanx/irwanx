@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tak tahu sebenarnya di dalam hatimu itu ada aku atau dia" - *@irwan_x_yans*
+> "Aku ingin kamu bisa langgeng sama aku dan yang aku harapkan kamu bisa jadi jodohku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
