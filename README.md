@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Susu sebenarnya lebih menyerupai makanan daripada minuman" - *@irwan_x_yans*
+> "Cukup saya aja yang banyak janji, wakil rakyat jangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
