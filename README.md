@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup saya aja yang banyak janji, wakil rakyat jangan." - *@irwan_x_yans*
+> "Aku tidak tahu dimana ujung perjalanan ini, aku tidak bisa menjanjikan apapun. Tapi, selama aku mampu, mimpi-mimpi kita adalah prioritas." - *Fiersa Besari*
 <!-- END_QUOTE -->
