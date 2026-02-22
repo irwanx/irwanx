@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tidak tahu dimana ujung perjalanan ini, aku tidak bisa menjanjikan apapun. Tapi, selama aku mampu, mimpi-mimpi kita adalah prioritas." - *Fiersa Besari*
+> "Lungo o rapopo, aku tak golek neh.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
