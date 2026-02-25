@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Terkadang aku iri sama layangan..talinya putus saja masih dikejar kejar dan gak rela direbut orang lain..." - *@irwan_x_yans*
+> "Katanya enggak bisa bohong. Iyalah, mata kan cuma bisa melihat." - *@irwan_x_yans*
 <!-- END_QUOTE -->
