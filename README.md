@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Balikan sama kamu itu sama saja bunuh diri dan melukai perasaan ku sendiri" - *@irwan_x_yans*
+> "Cinta tak bisa dijelaskan dengan kata-kata saja, karena cinta hanya mampu dirasakan oleh hati" - *@irwan_x_yans*
 <!-- END_QUOTE -->
