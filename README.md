@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cinta tak bisa dijelaskan dengan kata-kata saja, karena cinta hanya mampu dirasakan oleh hati" - *@irwan_x_yans*
+> "Jika kamu merindukan seseorang, tataplah matahari sore. Kirimkan pesan rindumu untuknya lewat senja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
