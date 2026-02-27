@@ -210,5 +210,5 @@ Other              11 hrs 40 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika kamu merindukan seseorang, tataplah matahari sore. Kirimkan pesan rindumu untuknya lewat senja." - *@irwan_x_yans*
+> "Senja lebih paham bahwa kita adalah sepasang insan yang merajut kisah, namun belum bisa terselesaikan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
