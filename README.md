@@ -210,5 +210,5 @@ Bash               11 hrs 41 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Orang lain dalam percintaan mulus banget, lah gua yang udah mendaki gunung, lewati lembah, ke samudra, tersambar petir, genit masih aja gagal terus." - *@irwan_x_yans*
+> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
