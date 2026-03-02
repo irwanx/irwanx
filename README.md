@@ -210,5 +210,5 @@ Other              11 hrs 45 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cintaku padamu bagai diare. Tak bisa kutahan, terus keluar begitu saja." - *@irwan_x_yans*
+> "Aku ora pernah ngerti opo kui tresno, kajaba sak bare ketemu karo sliramu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
