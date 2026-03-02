@@ -210,5 +210,5 @@ Other              11 hrs 45 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ora pernah ngerti opo kui tresno, kajaba sak bare ketemu karo sliramu." - *@irwan_x_yans*
+> "Ketika kesetiaan menjadi barang mahal. Ketika kata maaf terlalu sulit untuk diucap. Ego siapa yang sedang kita beri makan?" - *Fiersa Besari*
 <!-- END_QUOTE -->
