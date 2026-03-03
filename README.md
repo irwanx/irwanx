@@ -210,5 +210,5 @@ Other              11 hrs 45 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ketika kesetiaan menjadi barang mahal. Ketika kata maaf terlalu sulit untuk diucap. Ego siapa yang sedang kita beri makan?" - *Fiersa Besari*
+> "Tanpamu aku serupa daun kering yang dilepaskan ranting, terbawa angin tanpa arah dan tanpa ingin." - *@irwan_x_yans*
 <!-- END_QUOTE -->
