@@ -210,5 +210,5 @@ Other              11 hrs 45 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tanpamu aku serupa daun kering yang dilepaskan ranting, terbawa angin tanpa arah dan tanpa ingin." - *@irwan_x_yans*
+> "Kamu orang mana?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
