@@ -210,5 +210,5 @@ Other              11 hrs 49 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu orang mana?" - *@irwan_x_yans*
+> "Ketika kesetiaan menjadi barang mahal. Ketika kata maaf terlalu sulit untuk diucap. Ego siapa yang sedang kita beri makan?" - *Fiersa Besari*
 <!-- END_QUOTE -->
