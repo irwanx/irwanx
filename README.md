@@ -210,5 +210,5 @@ Other              11 hrs 49 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ketika kesetiaan menjadi barang mahal. Ketika kata maaf terlalu sulit untuk diucap. Ego siapa yang sedang kita beri makan?" - *Fiersa Besari*
+> "Jangan GR deh. Aku kangen kamu sedikit aja kok. Sedikit berlebihan maksudnya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
