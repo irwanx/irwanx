@@ -210,5 +210,5 @@ Other              11 hrs 49 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja selalu menggiring keceriaan menuju kegelapan. Mungkin hanya mereka yang bersyukur yang mampu menyeka air mata untuk melihat bintang." - *@irwan_x_yans*
+> "Kalo kamu mau menyakiti silahkan sakiti aja aku, jangan hatiku karena disitu ada kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
