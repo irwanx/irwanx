@@ -210,5 +210,5 @@ Other              11 hrs 49 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Beberapa rindu memang harus sembunyi-sembunyi. Bukan untuk disampaikan, hanya untuk dikirimkan lewat doa." - *Fiersa Besari*
+> "Kalo kamu lagi di AS, Patung Liberty ga akan bawa obor tapi bakal bawa BUNGA!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
