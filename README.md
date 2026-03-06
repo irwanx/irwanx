@@ -210,5 +210,5 @@ Other              11 hrs 49 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalo kamu mau menyakiti silahkan sakiti aja aku, jangan hatiku karena disitu ada kamu." - *@irwan_x_yans*
+> "Beberapa rindu memang harus sembunyi-sembunyi. Bukan untuk disampaikan, hanya untuk dikirimkan lewat doa." - *Fiersa Besari*
 <!-- END_QUOTE -->
