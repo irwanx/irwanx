@@ -210,5 +210,5 @@ Other              11 hrs 49 mins        -------------------------   00.86 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "SQLI ( Structured Query Love Injection )" - *@irwan_x_yans*
+> "Jadilah diri sendiri, jangan mengikuti orang lain, tetapi tidak sanggup untuk menjalaninya" - *@irwan_x_yans*
 <!-- END_QUOTE -->
