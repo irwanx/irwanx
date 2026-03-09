@@ -210,5 +210,5 @@ Other              11 hrs 59 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "kamu adalah terminalku, dimana aku menghabiskan waktuku untuk mengetikan beribu baris kode cinta untukmu smile" - *@irwan_x_yans*
+> "Bersikap keras kepala tentang tujuan Anda dan fleksibel tentang metode Anda." - *@irwan_x_yans*
 <!-- END_QUOTE -->
