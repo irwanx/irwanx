@@ -213,5 +213,5 @@ Other              11 hrs 59 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bersikap keras kepala tentang tujuan Anda dan fleksibel tentang metode Anda." - *@irwan_x_yans*
+> "Tak perlu membalas dengan menyakiti biar Karma yang akan urus semua itu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
