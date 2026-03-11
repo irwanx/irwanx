@@ -213,5 +213,5 @@ Other              11 hrs 59 mins        -------------------------   00.87 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tak perlu membalas dengan menyakiti biar Karma yang akan urus semua itu" - *@irwan_x_yans*
+> "Denganmu, jatuh cinta adalah patah hati paling sengaja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
