@@ -213,5 +213,5 @@ Bash               12 hrs 23 mins        -------------------------   00.90 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Denganmu, jatuh cinta adalah patah hati paling sengaja." - *@irwan_x_yans*
+> "Bibliophile adalah sebutan untuk kolektor buku-buku langka. Bibliopole adalah penjual buku-buku langka" - *@irwan_x_yans*
 <!-- END_QUOTE -->
