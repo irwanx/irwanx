@@ -213,5 +213,5 @@ Bash               12 hrs 35 mins        -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bibliophile adalah sebutan untuk kolektor buku-buku langka. Bibliopole adalah penjual buku-buku langka" - *@irwan_x_yans*
+> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
