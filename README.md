@@ -213,5 +213,5 @@ Bash               12 hrs 36 mins        -------------------------   00.91 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bukan Ujian Nasional besok yang harus aku khawatirkan, tapi ujian hidup yang aku lalui setelah kamu meninggalkanku." - *@irwan_x_yans*
+> "Seumur hidup kita meminum air sebanyak kurang lebih 75.000 liter" - *@irwan_x_yans*
 <!-- END_QUOTE -->
