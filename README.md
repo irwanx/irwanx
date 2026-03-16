@@ -213,5 +213,5 @@ Bash               12 hrs 47 mins        -------------------------   00.92 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seumur hidup kita meminum air sebanyak kurang lebih 75.000 liter" - *@irwan_x_yans*
+> "aku ingin kamu rm -rf kan semua mantan di otak mu,akulah root hati kamu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
