@@ -213,5 +213,5 @@ Bash               12 hrs 47 mins        -------------------------   00.92 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "aku ingin kamu rm -rf kan semua mantan di otak mu,akulah root hati kamu" - *@irwan_x_yans*
+> "Kata “Mouse” (tikus) berasal dari turunan Bahasa Sansekerta “Mus” yang berarti “pencuri”. 48. Berjalan kaki atau bersepeda ke sekolah mempertajam konsentrasi siswa di kelas dan tetap bertahan sekitar 4 jam kemudian. [Medical Daily]" - *@irwan_x_yans*
 <!-- END_QUOTE -->
