@@ -213,5 +213,5 @@ Bash               12 hrs 50 mins        -------------------------   00.92 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
+> "Aku seneng nongkrong di zone-h, karena disanalah aku arsipkan beberapa website yang ada foto kamunya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
