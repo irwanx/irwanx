@@ -213,5 +213,5 @@ Bash               13 hrs 12 mins        -------------------------   00.94 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku seneng nongkrong di zone-h, karena disanalah aku arsipkan beberapa website yang ada foto kamunya." - *@irwan_x_yans*
+> "Umur dari capung adalah 24 jam" - *@irwan_x_yans*
 <!-- END_QUOTE -->
