@@ -213,5 +213,5 @@ Bash               13 hrs 12 mins        -------------------------   00.94 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Umur dari capung adalah 24 jam" - *@irwan_x_yans*
+> "Hidup ini hanya sebentar jadi lepaskan saja mereka yang menyakitimu Sayangi Mereka yang peduli padamu dan perjuangan mereka yang berarti bagimu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
