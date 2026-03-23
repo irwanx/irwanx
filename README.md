@@ -213,5 +213,5 @@ Bash               13 hrs 14 mins        -------------------------   00.94 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Untung kangen koe ki gratis, cobo nek bayar po ra wes dadi gelandang aku.~" - *@irwan_x_yans*
+> "Beli jamu dari orang kendari, melihatmu seperti bidadari" - *@irwan_x_yans*
 <!-- END_QUOTE -->
