@@ -213,5 +213,5 @@ Bash               13 hrs 14 mins        -------------------------   00.94 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gak usah nyari celah xss deh, karena ketika kamu ngeklik hatiku udah muncul pop up namamu." - *@irwan_x_yans*
+> "Kupu-kupu melihat dengan 12000 mata" - *@irwan_x_yans*
 <!-- END_QUOTE -->
