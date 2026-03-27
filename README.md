@@ -213,5 +213,5 @@ Bash               13 hrs 14 mins        -------------------------   00.94 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cinta aa ka neng moal leungit-leungit sanajan aa geus kawin deui." - *@irwan_x_yans*
+> "Seekor buaya tidak dapat mengeluarkan lidah" - *@irwan_x_yans*
 <!-- END_QUOTE -->
