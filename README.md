@@ -213,5 +213,5 @@ Bash               13 hrs 14 mins        -------------------------   00.94 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seekor buaya tidak dapat mengeluarkan lidah" - *@irwan_x_yans*
+> "Kerja keras mengalahkan bakat ketika bakat tidak bekerja keras." - *@irwan_x_yans*
 <!-- END_QUOTE -->
