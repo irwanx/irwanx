@@ -213,5 +213,5 @@ Bash               13 hrs 22 mins        -------------------------   00.95 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kerja keras mengalahkan bakat ketika bakat tidak bekerja keras." - *@irwan_x_yans*
+> "Aku janji gak bakal ninggalin kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
