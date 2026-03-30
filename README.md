@@ -213,5 +213,5 @@ Bash               13 hrs 22 mins        -------------------------   00.95 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku janji gak bakal ninggalin kamu." - *@irwan_x_yans*
+> "Untuk apa memajang foto kita berdua? Cita-citaku ingin fotomu ada di buku nikahku." - *Fiersa Besari*
 <!-- END_QUOTE -->
