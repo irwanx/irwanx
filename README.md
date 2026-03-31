@@ -213,5 +213,5 @@ Bash               13 hrs 22 mins        -------------------------   00.95 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Untuk apa memajang foto kita berdua? Cita-citaku ingin fotomu ada di buku nikahku." - *Fiersa Besari*
+> "Aku tak menyangka kamu pergi dan melupakan ku begitu cepat" - *@irwan_x_yans*
 <!-- END_QUOTE -->
