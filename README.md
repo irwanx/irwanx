@@ -213,5 +213,5 @@ Bash               14 hrs 12 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tak menyangka kamu pergi dan melupakan ku begitu cepat" - *@irwan_x_yans*
+> "Seberat apapun pekerjaanmu, akan semakin ringan jika tidak dibawa." - *@irwan_x_yans*
 <!-- END_QUOTE -->
