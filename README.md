@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.02 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seberat apapun pekerjaanmu, akan semakin ringan jika tidak dibawa." - *@irwan_x_yans*
+> "Enak ya jadi kamu, kalau mau liat bidadari, tinggal liat di kaca." - *@irwan_x_yans*
 <!-- END_QUOTE -->
