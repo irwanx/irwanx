@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.02 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Enak ya jadi kamu, kalau mau liat bidadari, tinggal liat di kaca." - *@irwan_x_yans*
+> "Aku berdiri disini sendiri menunggu kehadiran dirimu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
