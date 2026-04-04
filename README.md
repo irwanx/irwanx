@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.02 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku berdiri disini sendiri menunggu kehadiran dirimu" - *@irwan_x_yans*
+> "Kita tukeran tulang yuk. Aku jadi tulang punggungmu, kamu jadi tulang rusukku." - *@irwan_x_yans*
 <!-- END_QUOTE -->
