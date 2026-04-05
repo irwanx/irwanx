@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kita tukeran tulang yuk. Aku jadi tulang punggungmu, kamu jadi tulang rusukku." - *@irwan_x_yans*
+> "Aku hanyalah kunang-kunang dan engkau hanyalah senja. Saat gelap kita berbagi. Saat gelap kita abadi." - *@irwan_x_yans*
 <!-- END_QUOTE -->
