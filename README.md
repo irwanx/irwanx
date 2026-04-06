@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku hanyalah kunang-kunang dan engkau hanyalah senja. Saat gelap kita berbagi. Saat gelap kita abadi." - *@irwan_x_yans*
+> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
 <!-- END_QUOTE -->
