@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika cinta itu Array, maka,cintaku padamu tak pernah empty jika di unset()." - *@irwan_x_yans*
+> "Ada yang bertingkah bodoh hanya untuk melihatmu tersenyum. Dan dia merasa bahagia akan hal itu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
