@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ada yang bertingkah bodoh hanya untuk melihatmu tersenyum. Dan dia merasa bahagia akan hal itu." - *@irwan_x_yans*
+> "Pengalaman adalah guru yang berat karena dia memberikan tes terlebih dahulu, kemudian pelajarannya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
