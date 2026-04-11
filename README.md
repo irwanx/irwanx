@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jomblo tidak perlu malu, jomblo bukan berarti tidak laku, tapi memang tidak ada yang mau." - *@irwan_x_yans*
+> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
