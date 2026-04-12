@@ -213,5 +213,5 @@ Bash               14 hrs 25 mins        -------------------------   01.01 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cukup tahu namaku, jangan rupaku" - *@irwan_x_yans*
+> "Bulan purnama 9 kali tebih terang daripada bulan setengah" - *@irwan_x_yans*
 <!-- END_QUOTE -->
