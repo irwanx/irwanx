@@ -213,5 +213,5 @@ Bash               15 hrs 3 mins         -------------------------   01.05 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Bulan purnama 9 kali tebih terang daripada bulan setengah" - *@irwan_x_yans*
+> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
 <!-- END_QUOTE -->
