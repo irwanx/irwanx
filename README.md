@@ -213,5 +213,5 @@ Bash               15 hrs 6 mins         -------------------------   01.05 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
+> "Aku deketin kamu cuma untuk redirect ke hati temenmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
