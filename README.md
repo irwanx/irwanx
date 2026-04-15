@@ -213,5 +213,5 @@ Bash               15 hrs 6 mins         -------------------------   01.05 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku deketin kamu cuma untuk redirect ke hati temenmu." - *@irwan_x_yans*
+> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
