@@ -213,5 +213,5 @@ Bash               15 hrs 6 mins         -------------------------   01.05 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
+> "Rasanya baru kemaren kita saling kenal. Kok aku sayang banget sampe gamau ninggalin kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
