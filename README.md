@@ -213,5 +213,5 @@ Bash               15 hrs 7 mins         -------------------------   01.04 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Rasanya baru kemaren kita saling kenal. Kok aku sayang banget sampe gamau ninggalin kamu." - *@irwan_x_yans*
+> "Lebih baik gagal dalam orisinalitas daripada berhasil meniru." - *@irwan_x_yans*
 <!-- END_QUOTE -->
