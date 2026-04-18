@@ -213,5 +213,5 @@ Bash               15 hrs 7 mins         -------------------------   01.04 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lebih baik gagal dalam orisinalitas daripada berhasil meniru." - *@irwan_x_yans*
+> "Berani bermimpi, tapi yang lebih penting, berani melakukan tindakan di balik impianmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
