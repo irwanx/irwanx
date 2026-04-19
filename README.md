@@ -213,5 +213,5 @@ Bash               15 hrs 31 mins        -------------------------   01.07 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Berani bermimpi, tapi yang lebih penting, berani melakukan tindakan di balik impianmu." - *@irwan_x_yans*
+> "Di tengah angin senja yang mendesak, aku merasakan kekuasaan waktu, yang tanpa pandang bulu mengubah segala-galanya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
