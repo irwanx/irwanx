@@ -213,5 +213,5 @@ Bash               15 hrs 32 mins        -------------------------   01.07 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Di tengah angin senja yang mendesak, aku merasakan kekuasaan waktu, yang tanpa pandang bulu mengubah segala-galanya." - *@irwan_x_yans*
+> "Lagi-lagi imajinasi menertawakanku karena selalu berhasil menemuimu." - *Fiersa Besari*
 <!-- END_QUOTE -->
