@@ -213,5 +213,5 @@ Bash               15 hrs 32 mins        -------------------------   01.06 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Diriku dan Dirimu itu ibarat PHP dan MySQL yang belum terkoneksi." - *@irwan_x_yans*
+> "Aku tahu dalam setiap tatapanku, kita terhalang oleh jarak dan waktu. Tapi aku yakin kalau nanti kita pasti bisa bersatu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
