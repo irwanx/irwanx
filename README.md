@@ -179,7 +179,7 @@ class Irwanx {
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 January 2024 - To: 22 April 2026
+From: 30 January 2024 - To: 23 April 2026
 
 Total Time: 1,454 hrs 30 mins
 
