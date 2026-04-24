@@ -213,5 +213,5 @@ Bash               15 hrs 32 mins        -------------------------   01.06 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tahu dalam setiap tatapanku, kita terhalang oleh jarak dan waktu. Tapi aku yakin kalau nanti kita pasti bisa bersatu." - *@irwan_x_yans*
+> "Nanas yang belum matang adalah racun" - *@irwan_x_yans*
 <!-- END_QUOTE -->
