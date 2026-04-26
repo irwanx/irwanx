@@ -213,5 +213,5 @@ Bash               16 hrs                -------------------------   01.09 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku diputusin sama pacar karena kita beda keyakinan. Aku yakin kalau aku ganteng, tapi dia enggak." - *@irwan_x_yans*
+> "Lagi-lagi imajinasi menertawakanku karena selalu berhasil menemuimu." - *Fiersa Besari*
 <!-- END_QUOTE -->
