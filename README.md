@@ -213,5 +213,5 @@ Bash               16 hrs                -------------------------   01.09 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Lagi-lagi imajinasi menertawakanku karena selalu berhasil menemuimu." - *Fiersa Besari*
+> "Aku nyaman sama kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
