@@ -213,5 +213,5 @@ Bash               16 hrs                -------------------------   01.09 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku nyaman sama kamu." - *@irwan_x_yans*
+> "Gak usah nyari celah xss deh, karena ketika kamu ngeklik hatiku udah muncul pop up namamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
