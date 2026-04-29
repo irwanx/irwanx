@@ -213,5 +213,5 @@ Bash               16 hrs                -------------------------   01.09 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Gak usah nyari celah xss deh, karena ketika kamu ngeklik hatiku udah muncul pop up namamu." - *@irwan_x_yans*
+> "Kuring moal bakal tiasa hirup sorangan, butuh bantosan jalmi sejen." - *@irwan_x_yans*
 <!-- END_QUOTE -->
