@@ -213,5 +213,5 @@ Bash               16 hrs 1 min          -------------------------   01.08 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kuring moal bakal tiasa hirup sorangan, butuh bantosan jalmi sejen." - *@irwan_x_yans*
+> "Jangan pernah mengeluh ketika kopimu dingin, ia pernah hangat, namun kau diamkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
