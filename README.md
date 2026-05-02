@@ -213,5 +213,5 @@ Bash               16 hrs 1 min          -------------------------   01.08 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Masih berharap dan terus berharap lama-lama aku jadi juara harapan." - *@irwan_x_yans*
+> "Jika kamu tanya berapa kali kamu datang ke pikiranku, jujur saja, cuma sekali. Habisnya, gak pergi-pergi sih!" - *@irwan_x_yans*
 <!-- END_QUOTE -->
