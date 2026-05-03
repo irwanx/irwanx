@@ -213,5 +213,5 @@ Bash               17 hrs 34 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika kamu tanya berapa kali kamu datang ke pikiranku, jujur saja, cuma sekali. Habisnya, gak pergi-pergi sih!" - *@irwan_x_yans*
+> "Mending sing humoris tapi manis, ketimbang sok romantis tapi akhire tragis." - *@irwan_x_yans*
 <!-- END_QUOTE -->
