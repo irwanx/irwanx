@@ -213,5 +213,5 @@ Bash               17 hrs 34 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Menurut riset pasar global Euromonitor International, pria Korea adalah pria yang paling suka bersolek dari pria lain di dunia" - *@irwan_x_yans*
+> "Aku mencari orang bukan dari kelebihannya tapi aku mencari orang dari ketulusan hatinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
