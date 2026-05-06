@@ -213,5 +213,5 @@ Bash               17 hrs 37 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku mencari orang bukan dari kelebihannya tapi aku mencari orang dari ketulusan hatinya." - *@irwan_x_yans*
+> "Kolak pisang tahu sumedang, walau jarak membentang cintaku takkan pernah hilang." - *@irwan_x_yans*
 <!-- END_QUOTE -->
