@@ -213,5 +213,5 @@ Bash               17 hrs 37 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kolak pisang tahu sumedang, walau jarak membentang cintaku takkan pernah hilang." - *@irwan_x_yans*
+> "Aku hanya ingin hidup cukup. Cukup lihat senyummu setiap hari." - *@irwan_x_yans*
 <!-- END_QUOTE -->
