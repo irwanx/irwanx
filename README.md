@@ -213,5 +213,5 @@ Bash               17 hrs 37 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku hanya ingin hidup cukup. Cukup lihat senyummu setiap hari." - *@irwan_x_yans*
+> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
