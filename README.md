@@ -213,5 +213,5 @@ Bash               17 hrs 37 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku gak sedih kok kalo besok hari senin, aku sedihnya kalau gak ketemu kamu." - *@irwan_x_yans*
+> "Kamu udah punya pacar belum?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
