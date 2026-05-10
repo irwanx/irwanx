@@ -213,5 +213,5 @@ Bash               17 hrs 40 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu udah punya pacar belum?" - *@irwan_x_yans*
+> "Manut welinge wong tuo, keterbatasan udu hambatan selagi niat iseh ono~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
