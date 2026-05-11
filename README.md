@@ -213,5 +213,5 @@ Bash               17 hrs 40 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Manut welinge wong tuo, keterbatasan udu hambatan selagi niat iseh ono~" - *@irwan_x_yans*
+> "Aku rela ko jadi Processor yg kepanasan, asalkan kmu yg jadi heatsink'y yg setiap saat bisa mendinginkan ku." - *@irwan_x_yans*
 <!-- END_QUOTE -->
