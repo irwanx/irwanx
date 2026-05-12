@@ -213,5 +213,5 @@ Bash               17 hrs 40 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku rela ko jadi Processor yg kepanasan, asalkan kmu yg jadi heatsink'y yg setiap saat bisa mendinginkan ku." - *@irwan_x_yans*
+> "Dan aku hilang, bukan berarti tak ingin dicari." - *Fiersa Besari*
 <!-- END_QUOTE -->
