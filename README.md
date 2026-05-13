@@ -213,5 +213,5 @@ Bash               17 hrs 40 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dan aku hilang, bukan berarti tak ingin dicari." - *Fiersa Besari*
+> "Aku punya sejuta alasan unutk melupakanmu, tapi tak ada yang bisa memaksaku untuk berhenti mencintaimu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
