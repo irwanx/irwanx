@@ -213,5 +213,5 @@ Bash               17 hrs 56 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku punya sejuta alasan unutk melupakanmu, tapi tak ada yang bisa memaksaku untuk berhenti mencintaimu." - *@irwan_x_yans*
+> "Akan tiba saatnya kita temukan alasan paling tepat untuk berjuang. Jika telah tiba, genggam erat. Sesuatu yang istimewa takan datang dua kali." - *Fiersa Besari*
 <!-- END_QUOTE -->
