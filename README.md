@@ -213,5 +213,5 @@ Bash               18 hrs 5 mins         -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku bangkit dari jatuh ku setelah kau jatuhkan aku dan aku akan memulainya lagi dari awal Tanpamu" - *@irwan_x_yans*
+> "Ojo meneh aku, ultramen wae nek diserang atine yo ketip-ketip dodone ndes !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
