@@ -213,5 +213,5 @@ Bash               18 hrs 34 mins        -------------------------   01.23 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ojo meneh aku, ultramen wae nek diserang atine yo ketip-ketip dodone ndes !~" - *@irwan_x_yans*
+> "Waktu lebih berharga daripada uang. Kamu bisa mendapatkan lebih banyak uang, tetapi kamu tidak bisa mendapatkan lebih banyak waktu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
