@@ -213,5 +213,5 @@ Bash               18 hrs 20 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika tidak bisa mewarnai hidup seseorang, maka jangan pudarkan warna aslinya." - *@irwan_x_yans*
+> "Berdiri di bawah langit di tengah hujan tak membuatku gentar. Aku percaya, tiada hari yang indah saat senja berada di pelupuk mata." - *@irwan_x_yans*
 <!-- END_QUOTE -->
