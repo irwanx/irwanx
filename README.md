@@ -213,5 +213,5 @@ Bash               18 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Berdiri di bawah langit di tengah hujan tak membuatku gentar. Aku percaya, tiada hari yang indah saat senja berada di pelupuk mata." - *@irwan_x_yans*
+> "Hidup seperti ini. Aku bisa merasakan senja yang bercampur bau tanah basah sepeninggal hujan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
