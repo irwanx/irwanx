@@ -213,5 +213,5 @@ Bash               18 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hidup seperti ini. Aku bisa merasakan senja yang bercampur bau tanah basah sepeninggal hujan." - *@irwan_x_yans*
+> "Koyone corona iki helm e cargloss ndes, la kabeh dilarani lo pie karepe !~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
