@@ -213,5 +213,5 @@ Bash               18 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Koyone corona iki helm e cargloss ndes, la kabeh dilarani lo pie karepe !~" - *@irwan_x_yans*
+> "Kamu tuh seperti jarum jam, tapi ada bedanya. Kalo jarum jam muternya diangka, kalo kamu muter dihatiku." - *@irwan_x_yans*
 <!-- END_QUOTE -->
