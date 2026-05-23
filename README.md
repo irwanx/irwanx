@@ -213,5 +213,5 @@ Bash               18 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tuh seperti jarum jam, tapi ada bedanya. Kalo jarum jam muternya diangka, kalo kamu muter dihatiku." - *@irwan_x_yans*
+> "Beberapa jenis cacing pita akan memakan dirinya sendiri jika kelaparan" - *@irwan_x_yans*
 <!-- END_QUOTE -->
