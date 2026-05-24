@@ -213,5 +213,5 @@ Bash               18 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Beberapa jenis cacing pita akan memakan dirinya sendiri jika kelaparan" - *@irwan_x_yans*
+> "Menaruh hati di atas ketidakpastian sikap sama saja dengan menaruh tangan di tangan seseorang yang sama sekali tidak ingin menggenggam." - *Fiersa Besari*
 <!-- END_QUOTE -->
