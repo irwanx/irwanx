@@ -213,5 +213,5 @@ Bash               18 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Menaruh hati di atas ketidakpastian sikap sama saja dengan menaruh tangan di tangan seseorang yang sama sekali tidak ingin menggenggam." - *Fiersa Besari*
+> "Senja memang begitu indah, namun cahaya mentari tetap tak tergantikan, meski dengan lilin yang bersinar sangat terang sekalipun." - *@irwan_x_yans*
 <!-- END_QUOTE -->
