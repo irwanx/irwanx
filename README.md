@@ -213,5 +213,5 @@ Bash               18 hrs 24 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja memang begitu indah, namun cahaya mentari tetap tak tergantikan, meski dengan lilin yang bersinar sangat terang sekalipun." - *@irwan_x_yans*
+> "Cobalah terdiam sejenak untuk memikirkan bagaimana caranya agar kita dapat menyelesaikan masalah ini bersama-sama" - *@irwan_x_yans*
 <!-- END_QUOTE -->
