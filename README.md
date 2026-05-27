@@ -213,5 +213,5 @@ Bash               18 hrs 25 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cobalah terdiam sejenak untuk memikirkan bagaimana caranya agar kita dapat menyelesaikan masalah ini bersama-sama" - *@irwan_x_yans*
+> "Jika rencananya tidak berhasil, ubah rencananya bukan tujuannya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
