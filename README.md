@@ -213,5 +213,5 @@ Bash               18 hrs 25 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika rencananya tidak berhasil, ubah rencananya bukan tujuannya." - *@irwan_x_yans*
+> "Malam membuatku ingin menulis rindu, bukan untuk kau baca. Karena rindu yang sesungguhnya telah kau tinggal di tepian senja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
