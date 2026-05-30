@@ -213,5 +213,5 @@ Bash               18 hrs 39 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
+> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
