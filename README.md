@@ -213,5 +213,5 @@ Bash               18 hrs 39 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Emang kalo kita chat gini pacar kamu marah gak?" - *@irwan_x_yans*
+> "Kesempatan itu mirip seperti matahari terbit. Kalau kau menunggu terlalu lama, kau bisa melewatkannya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
