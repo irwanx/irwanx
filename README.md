@@ -213,5 +213,5 @@ Bash               18 hrs 43 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kesempatan itu mirip seperti matahari terbit. Kalau kau menunggu terlalu lama, kau bisa melewatkannya." - *@irwan_x_yans*
+> "Layung senja telah mencuatkan sinar indahnya. Akan tetapi, kenapa kamu masih saja tetap di posisi yang sama dan dengan perasaan yang sama." - *@irwan_x_yans*
 <!-- END_QUOTE -->
