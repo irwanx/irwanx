@@ -213,5 +213,5 @@ Bash               18 hrs 43 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Layung senja telah mencuatkan sinar indahnya. Akan tetapi, kenapa kamu masih saja tetap di posisi yang sama dan dengan perasaan yang sama." - *@irwan_x_yans*
+> "Cie meh ngechat aku tapi gengsi.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
