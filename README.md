@@ -213,5 +213,5 @@ Bash               18 hrs 43 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Cie meh ngechat aku tapi gengsi.~" - *@irwan_x_yans*
+> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
