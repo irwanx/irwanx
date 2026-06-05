@@ -213,5 +213,5 @@ Bash               18 hrs 43 mins        -------------------------   01.18 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesuatu akan terasa berharga jika sudah kehilangan." - *@irwan_x_yans*
+> "Masalah terbesar dalam diri seseorang adalah tak sanggup melawan rasa takutnya" - *@irwan_x_yans*
 <!-- END_QUOTE -->
