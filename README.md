@@ -213,5 +213,5 @@ Bash               19 hrs 4 mins         -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Masalah terbesar dalam diri seseorang adalah tak sanggup melawan rasa takutnya" - *@irwan_x_yans*
+> "Orang lain dalam percintaan mulus banget, lah gua yang udah mendaki gunung, lewati lembah, ke samudra, tersambar petir, genit masih aja gagal terus." - *@irwan_x_yans*
 <!-- END_QUOTE -->
