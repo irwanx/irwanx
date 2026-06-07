@@ -213,5 +213,5 @@ Bash               19 hrs 13 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Orang lain dalam percintaan mulus banget, lah gua yang udah mendaki gunung, lewati lembah, ke samudra, tersambar petir, genit masih aja gagal terus." - *@irwan_x_yans*
+> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
