@@ -213,5 +213,5 @@ Bash               19 hrs 21 mins        -------------------------   01.21 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ga lulus ulangan umum sayang, gara-gara di bagian essay-nya aku tulis surat cinta buat kamu." - *@irwan_x_yans*
+> "Saat aku sedang bersamamu rasanya 1 jam hanya 1 detik, tetapi jika aku jauh darimu rasanya 1 hari menjadi 1 tahun." - *@irwan_x_yans*
 <!-- END_QUOTE -->
