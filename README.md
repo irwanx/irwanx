@@ -213,5 +213,5 @@ Bash               19 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Saat aku sedang bersamamu rasanya 1 jam hanya 1 detik, tetapi jika aku jauh darimu rasanya 1 hari menjadi 1 tahun." - *@irwan_x_yans*
+> "Aku ndes, nek difitnah ngerebut pacare uwong, yo tak rebut tenanan, la mosok wes entok fitnah raentok menungsone, kan yo rugi.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
