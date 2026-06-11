@@ -213,5 +213,5 @@ Bash               19 hrs 21 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ndes, nek difitnah ngerebut pacare uwong, yo tak rebut tenanan, la mosok wes entok fitnah raentok menungsone, kan yo rugi.~" - *@irwan_x_yans*
+> "Jomblo pasti berlalu. Semua ada saatnya, saat semua kesendirian menjadi sebuah kebersamaan dengannya kekasih halal. Bersabarlah." - *@irwan_x_yans*
 <!-- END_QUOTE -->
