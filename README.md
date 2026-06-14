@@ -213,5 +213,5 @@ Bash               19 hrs 23 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "berharap setelah aku berhasil login di hati kamu ga akan ada tombol logout, dan sessionku ga bakal pernah expired." - *@irwan_x_yans*
+> "Aku ingin kamu saja yang menemaniku membuka pagi hingga melepas senja, menenangkan malam dan membagi cerita." - *@irwan_x_yans*
 <!-- END_QUOTE -->
