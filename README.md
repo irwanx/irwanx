@@ -213,5 +213,5 @@ Bash               19 hrs 28 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku deketin kamu cuma untuk redirect ke hati temenmu." - *@irwan_x_yans*
+> "Dek, dolan yo mumpung prei.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
