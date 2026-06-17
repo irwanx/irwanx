@@ -213,5 +213,5 @@ Bash               19 hrs 28 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dek, dolan yo mumpung prei.~" - *@irwan_x_yans*
+> "Senja memang begitu indah, namun cahaya mentari tetap tak tergantikan, meski dengan lilin yang bersinar sangat terang sekalipun." - *@irwan_x_yans*
 <!-- END_QUOTE -->
