@@ -210,6 +210,10 @@ Bash               19 hrs 28 mins        -------------------------   01.20 %
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irwanx/irwanx/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/irwanx/irwanx/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
+
 ## 👁️ Visitor Count
 
 ![Visitor Count](https://count.getloli.com/@irwanx?name=irwanx&theme=booru-lewd&padding=7&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto)
