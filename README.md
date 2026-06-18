@@ -205,9 +205,9 @@ Bash               19 hrs 28 mins        -------------------------   01.20 %
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irwanx/irwanx/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irwanx/irwanx/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/irwanx/irwanx/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irwanx/irwanx/refs/heads/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irwanx/irwanx/refs/heads/pacman-output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/irwanx/irwanx/refs/heads/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
 <div align="center">
