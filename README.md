@@ -223,5 +223,5 @@ Bash               19 hrs 28 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Saya bekerja keras karena sadar kalau uang nggak punya kaki buat jalan sendiri ke kantong saya." - *@irwan_x_yans*
+> "Manut welinge wong tuo, keterbatasan udu hambatan selagi niat iseh ono~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
