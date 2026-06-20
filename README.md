@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>👋 Hello, I'm Irwan!</h1>
-  <a href="https://www.irwanx.dobda.id">
+  <a href="https://irwanx.dobda.id">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/irwan-xyans/">
