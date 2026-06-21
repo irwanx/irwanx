@@ -223,5 +223,5 @@ Bash               19 hrs 28 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kemauan adalah kunci sukses. Orang-orang sukses, berusaha keras apa pun yang mereka rasakan dengan menerapkan keinginan mereka untuk mengatasi sikap apatis, keraguan atau ketakutan." - *@irwan_x_yans*
+> "Mencintaimu adalah seni menyakiti diri" - *@irwan_x_yans*
 <!-- END_QUOTE -->
