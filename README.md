@@ -223,5 +223,5 @@ Bash               19 hrs 28 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "hii cantikk, boleh kenalan gak??" - *@irwan_x_yans*
+> "Maafkan aku sayang tidak bisa menjadi seperti yang kamu mau" - *@irwan_x_yans*
 <!-- END_QUOTE -->
