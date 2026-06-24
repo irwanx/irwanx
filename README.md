@@ -223,5 +223,5 @@ Bash               19 hrs 37 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Maafkan aku sayang tidak bisa menjadi seperti yang kamu mau" - *@irwan_x_yans*
+> "Kata pak haji, cowok yang nggak mau pergi Sholat Jumat disuruh pakai rok aja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
