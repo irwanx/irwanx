@@ -223,5 +223,5 @@ Bash               19 hrs 37 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kata pak haji, cowok yang nggak mau pergi Sholat Jumat disuruh pakai rok aja." - *@irwan_x_yans*
+> "aku ingin kamu rm -rf kan semua mantan di otak mu,akulah root hati kamu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
