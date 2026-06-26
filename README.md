@@ -223,5 +223,5 @@ Bash               19 hrs 45 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "aku ingin kamu rm -rf kan semua mantan di otak mu,akulah root hati kamu" - *@irwan_x_yans*
+> "Berani bermimpi, tapi yang lebih penting, berani melakukan tindakan di balik impianmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
