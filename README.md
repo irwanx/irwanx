@@ -223,5 +223,5 @@ Bash               19 hrs 45 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Berani bermimpi, tapi yang lebih penting, berani melakukan tindakan di balik impianmu." - *@irwan_x_yans*
+> "Kamu dulu sekolah SMK ambil kejuruan apa? | Teknik Komputer Jaringan | Terus sekarang bisa apa aja? | Menjaring hatimu lewat komputerku | biggrin" - *@irwan_x_yans*
 <!-- END_QUOTE -->
