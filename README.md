@@ -223,5 +223,5 @@ Bash               19 hrs 45 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu dulu sekolah SMK ambil kejuruan apa? | Teknik Komputer Jaringan | Terus sekarang bisa apa aja? | Menjaring hatimu lewat komputerku | biggrin" - *@irwan_x_yans*
+> "Plum bisa tumbuh di semua benua kecuali antartika" - *@irwan_x_yans*
 <!-- END_QUOTE -->
