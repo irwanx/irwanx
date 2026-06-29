@@ -223,5 +223,5 @@ Bash               19 hrs 47 mins        -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Plum bisa tumbuh di semua benua kecuali antartika" - *@irwan_x_yans*
+> "Tidak perlu takut. Tunjukan saja warna-warnimu yang sesungguhnya. Bahkan lukisan terbaik sedunia pun mempunyai pembenci dan pengkritik." - *Fiersa Besari*
 <!-- END_QUOTE -->
