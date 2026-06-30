@@ -223,5 +223,5 @@ Bash               19 hrs 47 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tidak perlu takut. Tunjukan saja warna-warnimu yang sesungguhnya. Bahkan lukisan terbaik sedunia pun mempunyai pembenci dan pengkritik." - *Fiersa Besari*
+> "Walaupun hanya sesaat saja kau membahagiakanku tapi rasa bahagia yang dia tidak cepat dilupakan" - *@irwan_x_yans*
 <!-- END_QUOTE -->
