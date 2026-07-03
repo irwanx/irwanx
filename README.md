@@ -223,5 +223,5 @@ Bash               19 hrs 47 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kalau aku memang tidak sayang sama kamu ngapain aku mikirin kamu. Tapi semuanya kamu yang ngganggap aku gak sayang sama kamu" - *@irwan_x_yans*
+> "Nek aku moco koran sarungan, terus koe blonjo dasteran, ngko sing kerjo sopo?~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
