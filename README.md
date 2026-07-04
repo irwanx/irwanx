@@ -223,5 +223,5 @@ Other              19 hrs 59 mins        -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nek aku moco koran sarungan, terus koe blonjo dasteran, ngko sing kerjo sopo?~" - *@irwan_x_yans*
+> "Sukses biasanya datang kepada mereka yang terlalu sibuk mencarinya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
