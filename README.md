@@ -223,5 +223,5 @@ Other              20 hrs 4 mins         -------------------------   01.20 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sukses biasanya datang kepada mereka yang terlalu sibuk mencarinya." - *@irwan_x_yans*
+> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
