@@ -223,5 +223,5 @@ Other              20 hrs 4 mins         -------------------------   01.19 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Madu di tangan kananmu, racun di tangan kirimu, jodoh tetap di tangan tuhan." - *@irwan_x_yans*
+> "Ingat! Anda itu jomblo" - *@irwan_x_yans*
 <!-- END_QUOTE -->
