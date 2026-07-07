@@ -223,5 +223,5 @@ Other              20 hrs 26 mins        -------------------------   01.21 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Ingat! Anda itu jomblo" - *@irwan_x_yans*
+> "Jangan habiskan waktumu memukuli tembok dan berharap bisa mengubahnya menjadi pintu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
