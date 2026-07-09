@@ -223,5 +223,5 @@ Other              20 hrs 34 mins        -------------------------   01.22 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Pendeta Mesir kuno mencabuti setiap helai rambut dan bulu dari badan mereka" - *@irwan_x_yans*
+> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
