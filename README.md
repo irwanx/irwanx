@@ -223,5 +223,5 @@ Other              20 hrs 36 mins        -------------------------   01.22 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
+> "Hidup adalah serangkaian kebetulan. Kebetulan adalah takdir yang menyamar." - *Fiersa Besari*
 <!-- END_QUOTE -->
