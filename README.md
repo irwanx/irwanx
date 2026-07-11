@@ -223,5 +223,8 @@ Other              20 hrs 40 mins        -------------------------   01.23 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Hidup adalah serangkaian kebetulan. Kebetulan adalah takdir yang menyamar." - *Fiersa Besari*
+> "trima kasih kakak, selamat datang kembali
+
+Trima kasih ndasmu !
+Iki urusan ati, ora cukup mung terima kasih.~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
