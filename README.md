@@ -223,8 +223,5 @@ Other              21 hrs 25 mins        -------------------------   01.27 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "trima kasih kakak, selamat datang kembali
-
-Trima kasih ndasmu !
-Iki urusan ati, ora cukup mung terima kasih.~" - *@irwan_x_yans*
+> "Terima kasih karena kamu aku menjadi lupa tentang masa laluku" - *@irwan_x_yans*
 <!-- END_QUOTE -->
