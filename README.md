@@ -223,5 +223,5 @@ Other              21 hrs 43 mins        -------------------------   01.28 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Manusia boleh berencana, tapi akhirnya saldo juga yang menentukan." - *@irwan_x_yans*
+> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
 <!-- END_QUOTE -->
