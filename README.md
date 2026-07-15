@@ -223,5 +223,5 @@ Other              21 hrs 43 mins        -------------------------   01.28 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dia cuman bercanda, harusnya kamu ketawa, bukan malah jatuh cinta." - *@irwan_x_yans*
+> "Jika tidak bisa menghapus seseorang dari ingatanmu, mungkin memang ia digariskan untuk ada disana. Sudahlah, manusia akan melupa pada saatnya." - *Fiersa Besari*
 <!-- END_QUOTE -->
