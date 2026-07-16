@@ -223,5 +223,5 @@ Other              21 hrs 43 mins        -------------------------   01.28 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jika tidak bisa menghapus seseorang dari ingatanmu, mungkin memang ia digariskan untuk ada disana. Sudahlah, manusia akan melupa pada saatnya." - *Fiersa Besari*
+> "Di dunia paralel, keadaannya akan jauh berbeda. Walau begitu, kau tahu aku akan tetap menjadi orang yang sama, yang merindukanmu dengan sederhana, mengejarmu dengan wajar, menyayangimu dengan luar biasa, dan menyakitimu dengan mustahil." - *Fiersa Besari*
 <!-- END_QUOTE -->
