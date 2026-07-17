@@ -223,5 +223,5 @@ Other              21 hrs 43 mins        -------------------------   01.28 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Di dunia paralel, keadaannya akan jauh berbeda. Walau begitu, kau tahu aku akan tetap menjadi orang yang sama, yang merindukanmu dengan sederhana, mengejarmu dengan wajar, menyayangimu dengan luar biasa, dan menyakitimu dengan mustahil." - *Fiersa Besari*
+> "RSVP adalah Respondez s’il Vous Plait yang artinya ‘mohon jawaban’" - *@irwan_x_yans*
 <!-- END_QUOTE -->
