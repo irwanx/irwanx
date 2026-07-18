@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "RSVP adalah Respondez s’il Vous Plait yang artinya ‘mohon jawaban’" - *@irwan_x_yans*
+> "Seseorang yang tepat tak selalu datang tepat waktu. Kadang ia datang setelah kau lelah disakiti oleh seseorang yang tidak tahu cara menghargaimu." - *Fiersa Besari*
 <!-- END_QUOTE -->
