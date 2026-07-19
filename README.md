@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Seseorang yang tepat tak selalu datang tepat waktu. Kadang ia datang setelah kau lelah disakiti oleh seseorang yang tidak tahu cara menghargaimu." - *Fiersa Besari*
+> "Kamu tu kayak warteg, sederhana namun berkualitas." - *@irwan_x_yans*
 <!-- END_QUOTE -->
