@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tu kayak warteg, sederhana namun berkualitas." - *@irwan_x_yans*
+> "Kupetik pipinya yang ranum,kuminum dukanya yang belum: Kekasihku, senja dan sendu telah diawetkan dalam kristal matamu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
