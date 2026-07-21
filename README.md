@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kupetik pipinya yang ranum,kuminum dukanya yang belum: Kekasihku, senja dan sendu telah diawetkan dalam kristal matamu." - *@irwan_x_yans*
+> "Keadilan sosial hanya berlaku bagi warna negara yang good looking." - *@irwan_x_yans*
 <!-- END_QUOTE -->
