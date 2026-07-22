@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Keadilan sosial hanya berlaku bagi warna negara yang good looking." - *@irwan_x_yans*
+> "berharap setelah aku berhasil login di hati kamu ga akan ada tombol logout, dan sessionku ga bakal pernah expired." - *@irwan_x_yans*
 <!-- END_QUOTE -->
