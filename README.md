@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "berharap setelah aku berhasil login di hati kamu ga akan ada tombol logout, dan sessionku ga bakal pernah expired." - *@irwan_x_yans*
+> "Dia yang tertidur nyenyak setelah mematahkan hatimu tidak pantas untuk kamu ingat." - *@irwan_x_yans*
 <!-- END_QUOTE -->
