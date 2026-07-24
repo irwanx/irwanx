@@ -223,5 +223,5 @@ Other              22 hrs 6 mins         -------------------------   01.30 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dia yang tertidur nyenyak setelah mematahkan hatimu tidak pantas untuk kamu ingat." - *@irwan_x_yans*
+> "Sekalipun hanya sejenak, Namun senja pergi meninggalkan rasa hidup ini amat teramat singkat. Titipkanlah asa." - *@irwan_x_yans*
 <!-- END_QUOTE -->
