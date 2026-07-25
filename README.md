@@ -223,5 +223,5 @@ Other              23 hrs 3 mins         -------------------------   01.34 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sekalipun hanya sejenak, Namun senja pergi meninggalkan rasa hidup ini amat teramat singkat. Titipkanlah asa." - *@irwan_x_yans*
+> "Kamu tu kayak warteg, sederhana namun berkualitas." - *@irwan_x_yans*
 <!-- END_QUOTE -->
