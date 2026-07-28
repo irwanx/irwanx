@@ -223,5 +223,5 @@ Other              23 hrs 6 mins         -------------------------   01.34 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tu kayak warteg, sederhana namun berkualitas." - *@irwan_x_yans*
+> "Perjuangkan sebelum pergi." - *Fiersa Besari*
 <!-- END_QUOTE -->
