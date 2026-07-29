@@ -223,5 +223,5 @@ Markdown           23 hrs 37 mins        -------------------------   01.36 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Perjuangkan sebelum pergi." - *Fiersa Besari*
+> "Aku ingin kamu saja yang menemaniku membuka pagi hingga melepas senja, menenangkan malam dan membagi cerita." - *@irwan_x_yans*
 <!-- END_QUOTE -->
