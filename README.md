@@ -223,5 +223,5 @@ Markdown           24 hrs 38 mins        -------------------------   01.42 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku ingin kamu saja yang menemaniku membuka pagi hingga melepas senja, menenangkan malam dan membagi cerita." - *@irwan_x_yans*
+> "Jangan pernah mengeluh ketika kopimu dingin, ia pernah hangat, namun kau diamkan." - *@irwan_x_yans*
 <!-- END_QUOTE -->
