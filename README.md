@@ -223,5 +223,5 @@ Markdown           25 hrs 4 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Jangan pernah mengeluh ketika kopimu dingin, ia pernah hangat, namun kau diamkan." - *@irwan_x_yans*
+> "Tidak ada yang abadi, baik bahagia maupun luka. Suatu saat kita akan tiba di titik menertawakan rasa yang dulu sakit, atau menangisi rasa yang dulu indah." - *Fiersa Besari*
 <!-- END_QUOTE -->
