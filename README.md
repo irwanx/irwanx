@@ -223,5 +223,5 @@ Markdown           25 hrs 4 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Tidak ada yang abadi, baik bahagia maupun luka. Suatu saat kita akan tiba di titik menertawakan rasa yang dulu sakit, atau menangisi rasa yang dulu indah." - *Fiersa Besari*
+> "Senja tak pernah salah hanya kenangan yang membuatnya basah." - *@irwan_x_yans*
 <!-- END_QUOTE -->
