@@ -223,5 +223,5 @@ Markdown           25 hrs 4 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Senja tak pernah salah hanya kenangan yang membuatnya basah." - *@irwan_x_yans*
+> "Tetap tersenyum walaluku masih dibuat menunggu dan rindu olehmu, tapi itu demi kamu" - *@irwan_x_yans*
 <!-- END_QUOTE -->
