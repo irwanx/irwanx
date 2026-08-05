@@ -223,5 +223,5 @@ Markdown           25 hrs 4 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Sesimpel ini deh, sibuk itu palsu, semua tergantung prioritas" - *@irwan_x_yans*
+> "Nama paling populer di dunia adalah Muhammad" - *@irwan_x_yans*
 <!-- END_QUOTE -->
