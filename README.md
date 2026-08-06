@@ -223,5 +223,5 @@ Markdown           25 hrs 5 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Nama paling populer di dunia adalah Muhammad" - *@irwan_x_yans*
+> "Mili koyo banyu, tegar koyo watu, sabar koyo bapak ro ibu~" - *@irwan_x_yans*
 <!-- END_QUOTE -->
