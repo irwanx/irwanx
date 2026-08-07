@@ -223,5 +223,5 @@ Markdown           25 hrs 5 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Mili koyo banyu, tegar koyo watu, sabar koyo bapak ro ibu~" - *@irwan_x_yans*
+> "Kamu tau gak apa persamaannya kamu sama AC? Sama-sama bikin aku sejuk." - *@irwan_x_yans*
 <!-- END_QUOTE -->
