@@ -223,5 +223,5 @@ Markdown           25 hrs 9 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Kamu tau gak apa persamaannya kamu sama AC? Sama-sama bikin aku sejuk." - *@irwan_x_yans*
+> "Aku tau teman wanitamu bukan hanya satu, dan menyukaimu pun bukan hanya aku." - *@irwan_x_yans*
 <!-- END_QUOTE -->
