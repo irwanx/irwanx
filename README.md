@@ -223,5 +223,5 @@ Markdown           25 hrs 9 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Aku tau teman wanitamu bukan hanya satu, dan menyukaimu pun bukan hanya aku." - *@irwan_x_yans*
+> "Satu titik dua koma, kamu cantik aku yang punya." - *@irwan_x_yans*
 <!-- END_QUOTE -->
