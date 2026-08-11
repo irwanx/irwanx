@@ -223,5 +223,5 @@ Markdown           25 hrs 9 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Satu titik dua koma, kamu cantik aku yang punya." - *@irwan_x_yans*
+> "Beberapa rasa memang harus dibiarkan menjadi rahasia. Bukan untuk diutarakan, hanya untuk disyukuri keberadaannya." - *Fiersa Besari*
 <!-- END_QUOTE -->
