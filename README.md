@@ -223,5 +223,5 @@ Markdown           25 hrs 9 mins         -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Beberapa rasa memang harus dibiarkan menjadi rahasia. Bukan untuk diutarakan, hanya untuk disyukuri keberadaannya." - *Fiersa Besari*
+> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
 <!-- END_QUOTE -->
