@@ -223,5 +223,5 @@ Markdown           25 hrs 11 mins        -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Dear kamu yang tertulis di halaman defacementku, Kapan jadi pacarku?" - *@irwan_x_yans*
+> "Melalui rasa rindu yang bergejolak dalam hati, di situ terkadang aku sangat membutuhkan dekap peluk kasih sayangmu." - *@irwan_x_yans*
 <!-- END_QUOTE -->
