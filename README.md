@@ -223,5 +223,5 @@ Markdown           25 hrs 11 mins        -------------------------   01.44 %
 ## 📜 Quote of the Day
 
 <!-- START_QUOTE -->
-> "Melalui rasa rindu yang bergejolak dalam hati, di situ terkadang aku sangat membutuhkan dekap peluk kasih sayangmu." - *@irwan_x_yans*
+> "Gajian itu kayak mantan ya? Bisanya cuman lewat sebentar saja." - *@irwan_x_yans*
 <!-- END_QUOTE -->
