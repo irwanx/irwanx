@@ -165,13 +165,17 @@ class Irwanx {
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=irwanx&theme=moonlight" width="49%" alt="Stats"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irwanx&theme=moonlight&utcOffset=7" width="49%" alt="Productive Time"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=irwanx&theme=moonlight&hide_border=true" width="60%" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🕒 Coding Activity (via WakaTime)
+
+<div align="center">
+  <img src="https://wakatime.com/share/@irwanx/f6ef0268-11eb-433c-b2b2-76d7b4925288.svg" width="49%" alt="Wakatime All Language"/>
+  <img src="https://wakatime.com/share/@irwanx/2b3833a6-f6a3-43ea-be33-981b2eb78ae9.svg" width="49%" alt="Wakatime All Language"/>
+</div>
+
 
 📊 **All-Time Development Breakdown**
 
